@@ -1,0 +1,1001 @@
+Question	Answer1	Answer2	SU Type	SU Sub Type	Question Type
+what does tito sell that betrays bardo ?	his library .	the late farmers stock	Concept	Common Noun Phrases	Nested Relation
+who can hear the goblins on the second day in the story ?	only lizzie	lizzie	Concept	Entity	Event Argument - Concept
+where does angelica elope to ?	cathay ?	cathay	Concept	Entity	Event Argument - Concept
+what is the current population of anthea ?	less than 300	less than 300	Attribute	Numerics	Attribute of Concept
+who kidnaps diana in the desert ?	ahmed ben hassan	the sheik	Concept	Entity	Event Argument - Concept
+why was it banned in the soviet union ?	occultism .	because of its perceived occultism .	Concept	Common Noun Phrases	Causal Relation
+who turns down monty s proposal ?	drew	barbara drew	Concept	Entity	Event Argument - Concept
+what does conan do to the pictish village ?	he sets it on fire .	he sets it on fire .	Event	Event Expression	Event Trigger
+who plays matchmaker for theordora ?	mrs. mcbride	mrs. mcbride .	Concept	Entity	Event Argument - Concept
+how many pictish heads does conan vow to take for slasher ?	seven .	seven .	Attribute	Numerics	Nested Relation
+what nationality was ahmed s mother ?	spanish	his mother was spanish .	Attribute	States	Attribute of Concept
+what bothers miranda about europe ?	their old world treatment of women .	the old world treatment of its women	Event	Event Expression	Event Argument - Concept
+how much must monty spend during the first year ?	one million dollars .	$ 1 million	Attribute	Numerics	Event Argument - Attribute
+what is the name of the village where mortimer treginnis ' brothers and sister live ?	tredannick wollas .	in the village of cornwall .	Concept	Entity	Attribute of Concept
+in what city does this story take place ?	alexandria .	alexandria	Concept	Entity	Book Attribute
+who warns settlers of the pictish attacks ?	both balthus and conan warn people .	balthus	Concept	Entity	Event Argument - Concept
+what physical disorders does paula and charmian have in common ?	insomnia and the inability to have kids	insomnia and they ca n't have kids .	Concept	Common Noun Phrases	Event Argument - Concept
+what word does beerbohm say he was never able to make out ?	labud	labud	Concept	Common Noun Phrases	Nested Relation
+why did mrs. almayer run away ?	she ran away with the rajah for protection .	for protection	Event	Event Name	Causal Relation
+"where is miranda from , according to the story ?"	"bangor , maine"	bangor maine	Concept	Entity	Relation between Concepts
+where is dr. bianchon staying during the story ?	an inn	inn	Concept	Entity	Book Attribute
+why does mary have to educate herself ?	she is neglected by her mother	her parents ignore her	Event	Event Name	Causal Relation
+who goes to warn the salt gatherers ?	conan .	conan .	Concept	Entity	Event Argument - Concept
+what town does jim get banished from ?	eatonville	eatonville	Concept	Entity	Event Argument - Concept
+why ca n't the men control the ship ?	the autopilot was triggered	it is under the control of the autopilot	Event	Event Name	Causal Relation
+"what does tom learn about his friend , mr. damon ?"	mr. damon is having financial difficulties .	that he s having financial troubles .	Event	Event Expression	Nested Relation
+where does orlando kill king agramante ?	the island of lampedusa .	the island of lampedusa	Concept	Entity	Event Argument - Attribute
+who kidnapped otto ?	baron henry	baron henry	Concept	Entity	Event Argument - Concept
+what does paul believe in by the end of the story ?	hell	in hell	Concept	Common Noun Phrases	Event Argument - Concept
+"when romola takes to a boat to die , she ends up at an island that is fighting what disease ?"	plague	plague	Concept	Common Noun Phrases	Temporal Relation
+why does barabas and ithamore kill abigail ?	for becoming a christian .	she became a christian	Event	Event Name	Causal Relation
+who is scalpled alive ?	hutter	hutter	Concept	Entity	Event Argument - Concept
+who is scalpled alive ?	a black cloak	the black cloak	Concept	Entity	Event Argument - Concept
+why does n't pozdnyshev run after the violinist ?	because he is wearing socks	he did n't want anyone to make fun of him for chasing after her lover in socks .	Event	Event Name	Causal Relation
+who is mr lawrence to mrs helen graham ?	her brother .	her brother	Concept	Entity	Relation between Concepts
+who does claude marry ?	christine hallegrain .	christine hallegrain	Concept	Entity	Relation between Concepts
+what is the secret weakness of goblins ?	their soft feet .	"they have soft , vulnerable feet ."	Concept	Common Noun Phrases	Attribute of Concept
+where is everard when he feels a sword at his throat ?	a dark alley	in a dark gallery .	Concept	Common Noun Phrases	Event Argument - Concept
+why does claude become depressed ?	his inability to paint his masterpiece .	he is n't able to paint much .	Event	Event Name	Causal Relation
+who is the father of kate s daughter ?	phillip is the father .	philip .	Concept	Entity	Relation between Concepts
+when did the soviets ban the collection of stories ?	1929	1929	Attribute	Numerics	Event Argument - Attribute
+what happens to laura when she can not get any more goblin fruit ?	she gets sick .	she withers away and begins to die .	Event	Event Name	Temporal Relation
+who does vervelle want his daughter to marry ?	grassou	pierre grassou .	Concept	Entity	Event Argument - Concept
+how did anthony ( buck rogers ) remain asleep for 492 years ?	he was exposed to radioactive gas .	exposure to radioactive gas .	Event	Event Expression	Nested Relation
+who is operating the speeding motorboat that almost runs tom over ?	shallock peters .	mr. peters .	Concept	Entity	Nested Relation
+what tribe captured the crew ?	maori tribe	the maori tribe .	Concept	Book-Specific	Event Argument - Concept
+whose influence does john girdlestone hope to use some day ?	the collector	a member of parliament .	Concept	Common Noun Phrases	Event Argument - Concept
+who does charity marry in the end ?	mr. royall	mr. royall .	Concept	Entity	Event Argument - Concept
+what nationality is madame de merret s lover ?	spanish	spanish	Concept	Entity	Attribute of Concept
+who is the egyptian monk ?	philammon	philammon .	Concept	Entity	Attribute of Concept
+who does troilus curse ?	fortune	fortune	Concept	Entity	Event Argument - Concept
+what is the town like area that the germanic tribes inhabit ?	mark	mark .	Concept	Book-Specific	Attribute of Concept
+who is shallock peters ?	he is a con-man determined to steal tom s ideas .	con artist	Concept	Entity	Attribute of Concept
+who travels with diana into the desert ?	a guide .	her arab guide .	Concept	Entity	Event Argument - Concept
+which remarkable habit did enoch soames demonstrate with regard to choice of clothing ?	always wore a grey waterproof cape and a soft black hat	he always wore a gray waterproof cape and a soft black hat .	Event	Event Expression	Nested Relation
+who receives contraceptives ?	pozdnyshev s wife	pozdnyshev s wife gets contraceptives to prevent pregnancy .	Concept	Entity	Event Argument - Concept
+what is the young man s first name in which emily married the second time ?	alfred .	hercule poirot	Concept	Entity	Attribute of Concept
+what accomplishment was mary taught in order to attract suitors ?	dancing	dancing	Concept	Common Noun Phrases	Causal Relation
+what is the name of lord glenarvan s yacht ?	the duncan	the duncan	Concept	Book-Specific	Attribute of Concept
+what do the other painters think of grassou work ?	they laugh at it .	he feels that they are laughing at him .	Event	Event Expression	Nested Relation
+what did ernest lose his faith in after having a conversation with a poor person ?	the integrity of the bible .	in the bible	Concept	Common Noun Phrases	Nested Relation
+who died and left the sawyer house and land to rebecca ?	miranda	miranda	Concept	Entity	Event Argument - Concept
+why can brewster not tell anyone ?	he is sworn to secrecy	he is sworn to secrecy	Event	Event Name	Causal Relation
+who relaunch the ship ?	renfry	renfry	Concept	Entity	Event Argument - Concept
+where was the rescue bottle found ?	in the shark s stomach	shark s stomach	Concept	Entity	Event Argument - Concept
+lodowick and mathias die in a duel over whom ?	abigail	abigail	Concept	Entity	Event Argument - Concept
+where does john girdlestone travel to buy diamonds from the dealers ?	london	south africa .	Concept	Entity	Event Argument - Concept
+what is savonarola accused of at the end of the story ?	heresy	heresy	Concept	Entity	Event Argument - Concept
+where do theodora and hector go on the day of their romantic encounter ?	versailles	versailles .	Concept	Entity	Event Argument - Concept
+how many war dukes were chosen in total ?	two war dukes were chosen in total .	two	Attribute	Numerics	Event Argument - Attribute
+who was the captain disguised as ?	a roundhead	a roundhead .	Concept	Book-Specific	Event Argument - Concept
+what type of literary passage is this story ?	this story is a literary dialogue .	it is a critique on naming .	Attribute	Book Attributes	Book Attribute
+what house are ruggiero and bradamante both ancestors of ?	the house of este	the house of este	Concept	Book-Specific	Relation between Concepts
+what did mr. peters try to buy tom out of ?	tom s inventions .	some of his inventions	Concept	Common Noun Phrases	Event Argument - Concept
+how did john keep the impending bankruptcy from ezra ?	by showing him a dummy ledger	by having a fake ledger .	Event	Event Expression	Nested Relation
+what does mrs. cheveley propose ?	she offers to give sir robert s letter in exchange to marry her old beau	that she ll give lord robert s letter to goring if he marries her	Event	Event Expression	Nested Relation
+which philosopher is aaron thought to resemble ?	frank strawn-hamilton	frank strawn-hamilton	Concept	Entity	Event Argument - Concept
+what dictionary shows that these stories point out the social injustices of the time ?	the oxford dictionary of national biography	the oxford dictionary of national biography	Concept	Common Noun Phrases	Attribute of Concept
+what does the poor businessman dream of ?	finding a gold mine and getting rich	he dream of finding a hidden gold mine	Event	Event Expression	Attribute of Concept
+how does christopher feel towards mr. fetcher ?	he hates mr.fletcher .	hatred	Event	Event Expression	Nested Relation
+what line does conan use to describe slasher at the end of the story ?	a better warrior than many a men	a better warrior than many a man	Attribute	Descriptions	Event Argument - Attribute
+how was maurya s son traveling to his connemarre ?	sailing	sailing	Event	Event Expression	Event Argument - Attribute
+where do many of siddhartha s revelations happen ?	many of siddhartha s revelations happen on the banks of the river .	by a river	Concept	Entity	Event Argument - Concept
+"harvard medical student grete anderson , now a transplant surgeon in houston was a former what ?"	miss oregon	beauty queen	Concept	Common Noun Phrases	Relation between Concepts
+what happened for the first time in 20 years ?	a general election	a general election happened	Event	Event Name	Event Trigger
+who spreads rumors about helen ?	eliza .	eliza .	Concept	Entity	Event Argument - Concept
+what medical school does laura attend ?	laura attends harvard medical school .	harvard medical school	Concept	Common Noun Phrases	Event Argument - Concept
+who does aaron hancock resemble ?	frank strawn- hamilton .	bearded hobo philosopher frank strawn-hamilton	Concept	Entity	Event Argument - Concept
+what physical disability does christopher s mother have ?	she is blind .	blindness .	Concept	Common Noun Phrases	Attribute of Concept
+what do ernest s parents do when they learn of ernest s arrest ?	they disown him	disown him	Event	Event Name	Temporal Relation
+why was laura horrified at the stream ?	she could no longer hear the goblins ' voices .	she can no longer hear the goblins ' voices .	Event	Event Name	Causal Relation
+what does conan set off in when going to slay zogar sag ?	canoes	canoes	Event	Event Expression	Temporal Relation
+who explained that it would be unjust for socrates to leave his cell ?	the laws of athens said it would be unjust for socrates to leave his cell .	the voice of the laws of athens talked socrates out of leaving his cell .	Concept	Common Noun Phrases	Nested Relation
+what medical specialty is laura drawn to ?	laura is drawn to pediatrics .	pediatrics	Concept	Common Noun Phrases	Event Argument - Concept
+what is the relationship between honoria and esther ?	honoria is esthers mother .	mother and daughter	Attribute	States	Relation between Concepts
+what does maurya predict by nightfall ?	she will have no living sons	her last living son will be dead	Event	Event Name	Event Argument - Concept
+what state does this story take place within ?	new york	new york	Attribute	Book Attributes	Book Attribute
+what was flying the ship ?	autopilot .	the autopilot	Concept	Common Noun Phrases	Event Argument - Concept
+who was everard made prisoner by ?	cormwell	oliver cromwell .	Event	Event Expression	Event Argument - Concept
+what is diana s brother s name ?	sir aubrey mayo	aubrey	Concept	Entity	Attribute of Concept
+which political party takes power after stories of the newtown scandal are released ?	the republican party	republican party	Concept	Entity	Temporal Relation
+where does the mysterious witch live ?	a cave on atlas ' mountain	the atlas mountains	Concept	Entity	Relation between Concepts
+"when harney and charity run into a drunk mr. royall , who is with him ?"	prostitutes .	prostitutes .	Concept	Entity	Temporal Relation
+what town did daisy encounter jim in ?	story did not mention	outside town	Concept	Entity	Event Argument - Concept
+herzl focused his political activity on the behalf of what belief system ?	herz focused his political efforts on behalf of zionism .	zionism	Concept	Entity	Nested Relation
+what is the name of the painting that sparks an outcry at salon des refuses ?	plein air .	plein air .	Concept	Entity	Attribute of Concept
+what proof does mrs. cheveley have that sir robert made his money illegially ?	a lettter .	a letter	Concept	Common Noun Phrases	Nested Relation
+who abandons the city of troy after foreseeing its fall ?	"calchas , a soothsayer ."	calchas .	Concept	Entity	Temporal Relation
+in which city were the records of the han s traitorous transactions ?	nu-yok	nu-yok	Concept	Entity	Attribute of Concept
+what is kamala s profession ?	a courtesan .	high priced whore	Concept	Common Noun Phrases	Attribute of Concept
+where does siddhartha decided to live the rest of his life ?	by the river .	the river	Concept	Common Noun Phrases	Event Argument - Concept
+what does balthus witness conan doing in the forrest ?	conan was slaying a forrest devil .	conan is slaying a forest devil	Event	Event Expression	Nested Relation
+what type of doctor does livingston intend to become ?	psychiatrist	pyschiatrist	Concept	Common Noun Phrases	Attribute of Concept
+who accidentally boards the duncan ?	jacques paganel	jacques paganel .	Concept	Entity	Event Argument - Concept
+how many stories was in doyle s list of best stories ?	12	12	Attribute	Numerics	Attribute of Concept
+what occurrence was foretold ?	the death of bartley	the death of her sons	Event	Event Expression	Nested Relation
+what does mr. peters want to buy from tom ?	some of his inventions .	some of his inventions	Concept	Common Noun Phrases	Event Argument - Concept
+how doew plilammon feel after the murder ?	despondent .	he is despondent	Attribute	States	Attribute of Concept
+why do the jews seem to attract persecution where there was n't any previously ?	"the political question of if there is a good number or too many jews has n't been addressed , even in civilized countries ."	the seem to come in multiples .	Event	Event Expression	Causal Relation
+what final planet do the men land on in the expedition ?	earth	earth .	Concept	Entity	Event Argument - Concept
+what is la grande breteche ?	an abandoned manor	a house that has been left empty for years .	Attribute	Descriptions	Attribute of Concept
+why was almayer so upset when the body was found floating in the river ?	because the body was wearing dain s jewelry and now he has no chance to find the gold	he thought it was dain and that without him he d never find the mine .	Event	Event Expression	Causal Relation
+who does tregennis blame for his sister s death ?	the devil	the devil .	Concept	Entity	Event Argument - Concept
+who controls the government at the beginning of newton s experimentation ?	the democrats	democratic party	Concept	Entity	Temporal Relation
+how does lodowick and mathias die ?	after a duel .	they kill each other in a duel .	Event	Event Expression	Nested Relation
+where is jim held in ?	joe clark s barn .	the barn of joe clarke	Concept	Entity	Event Argument - Concept
+why does asotus become emboldened by vanity and self -love ?	he drank from narcissus ' spring	he drank from narcissus ' spring	Event	Event Expression	Causal Relation
+who was gilbert markham s first romantic interest ?	eliza millward .	helen graham	Concept	Entity	Event Argument - Concept
+"why is romola s faith in florence and , specifically , savonarola , shaken ?"	she pleads savonarola to intervene with the death sentences against the supporters who include her godfather .	he wo n't intervene in the deaths of the medici family supporters	Event	Event Expression	Causal Relation
+who makes a pass at liza ?	jim blakeston	jim blakeston	Concept	Entity	Event Argument - Concept
+when does anne realize her true feelings for gilbert ?	when he becomes sick	when she finds out he has typhoid fever and is gravely ill .	Event	Event Expression	Temporal Relation
+who rescues irene from the goblins ?	curdie .	curdie .	Concept	Entity	Event Argument - Concept
+what is anthea experiencing as a result of numerous nuclear wars ?	a terrible drought	drought	Concept	Common Noun Phrases	Causal Relation
+who did christopher love and marry after serving time in prison ?	"maria , mr.fletcher s granddaughter ."	maria wyndham	Concept	Entity	Temporal Relation
+why does kate return ?	she hears that her child is ill .	her child got sick	Event	Event Expression	Causal Relation
+what is tom trying to desperately get working ?	his latest invention .	his latest invention	Concept	Common Noun Phrases	Event Argument - Concept
+what did socrates compare to the origin of words start ?	to a artist	idea linked to a name	Attribute	Descriptions	Event Argument - Concept
+who argues on behalf of dave ?	elder childers argues on behalf of dave	elder childers	Concept	Entity	Event Argument - Concept
+"according to pozdnyshev , women will not have equal rights until what happens ?"	they are no longer viewed as objects of desire	they are not viewed as objects of desire	Event	Event Expression	Temporal Relation
+why does n't hypatia become a christian ?	she is murdered by a crowd .	she is murdered before she gets the chance to convert	Event	Event Expression	Causal Relation
+what happened to gilbert ?	he became very sick and anne then realized she loved him and went to see him .	he becomes gravely ill with typhoid fever but survives and becomes engaged to anne .	Event	Event Expression	Nested Relation
+what prompted monsieur de merret s suspicion ?	a noise coming from the closet	hearing a noise	Concept	Entity	Event Argument - Concept
+what nationality is ahmed s mother ?	she is spanish .	his mother was spanish .	Attribute	States	Relation between Concepts
+when was the ban restriction on the collection of stories lifted ?	1940	in 1940	Attribute	Numerics	Event Argument - Attribute
+what ca n't monty tell other people ?	the reason why he is living in excess .	why he is splurging	Concept	Common Noun Phrases	Nested Relation
+who served as a model who claude s open air painting ?	christine .	"christine hallgrain , who later becomes his wife ."	Concept	Entity	Event Argument - Concept
+what was the name of falder s lawyer ?	frome	frome	Concept	Entity	Attribute of Concept
+in the end what happens to the goblins ?	they drown	the goblins drowned	Event	Event Expression	Nested Relation
+why is rebecca s family poor ?	"because of the children , the morgage , and her father not keeping a job"	too many kids and no jobs	Event	Event Expression	Causal Relation
+how many phases did the court compliment competition have ?	4 phases	2	Attribute	Numerics	Attribute of Concept
+what effect does the spring of narcissus have on those who drink from it ?	grow enamored of themselves	they become enamoured with themselves .	Event	Event Expression	Causal Relation
+what is michael s relationship to maurya ?	michael is maurya s son .	her son	Concept	Common Noun Phrases	Relation between Concepts
+what is grassou s biggest goal ?	to get into the academy	to enter the academy .	Attribute	Descriptions	Attribute of Concept
+what nationality is mrs. mcbride ?	american .	american	Attribute	States	Relation between Concepts
+who refuels the ship ?	robots	robots	Concept	Common Noun Phrases	Event Argument - Concept
+what did madam de merret s husband discover about her ?	that she was having an affair .	he discovered that she had a lover .	Event	Event Expression	Nested Relation
+what does pozdnyshev refer to as the last excuse for our swinish life ?	children .	children	Concept	Common Noun Phrases	Event Argument - Concept
+what is claude s occupation ?	painter	he is a painter or artist .	Concept	Common Noun Phrases	Attribute of Concept
+who wants to receive the affection of mrs. graham ?	walter hargrave .	mr. lawrence .	Concept	Entity	Event Argument - Concept
+"what did diana refuse before she left on her journey , demonstrating her independence ?"	a marriage proposal	marriage proposal	Concept	Common Noun Phrases	Temporal Relation
+what happens to newton s eyes during the x-ray by the fbi ?	he is blinded .	he is blinded	Event	Event Expression	Temporal Relation
+what does soames request of his friend before departing to hell ?	that he attempts to let people known soames existed .	"the he , soames , actually existed ."	Event	Event Expression	Temporal Relation
+why did madam de merret ask the mason to knock a hole in the door ?	so she could look at her lover s face one last time .	so she could see he lover one last time .	Event	Event Expression	Causal Relation
+what does charity do for a living ?	she is a librarian .	a librarian .	Concept	Common Noun Phrases	Attribute of Concept
+what does astolfo hope to find in ethiopia ?	a cure for orlando s madness	a cure for orlando s madness	Concept	Common Noun Phrases	Event Argument - Concept
+what do most of the letters focus on ?	the characters reactions to one another .	the characters opinions of each other	Concept	Common Noun Phrases	Event Argument - Concept
+why did the soviet union ban the collection of stories ?	because of alleged occultism	the stories contained occultism	Event	Event Expression	Causal Relation
+who s name is the letter addressed to that sir robert reads in the final act ?	the addressee s name is not mentioned	no one	Concept	Entity	Nested Relation
+what does pete do to cover up kate s disappearance ?	he creates fake letters to and from kate .	fabricates an uncle that she is visiting	Event	Event Expression	Nested Relation
+why does ahmed rape and mistreat diana ?	because diana is of endlish descent .	she is english	Attribute	Descriptions	Causal Relation
+what instrument does pozdnyshev s wife s lover play ?	violin	violin	Concept	Common Noun Phrases	Event Argument - Concept
+who is john girdle stone s son ?	ezra	ezra girdlestone	Concept	Entity	Relation between Concepts
+"what does eliza , on her death bed , request of her daughter mary ?"	eliza requests that mary marry charles .	that she marry charles	Event	Event Expression	Temporal Relation
+where do angelica and medoro elope to ?	cathay	they elope to cathay .	Concept	Entity	Event Argument - Concept
+the senecan ghost is named what ?	machiavel	machiavel	Concept	Entity	Attribute of Concept
+"upon his upbringing , what is otto known for ?"	his wise counsel and peaceful nature	salesman	Attribute	Descriptions	Temporal Relation
+what is the goblin prince s name ?	harelip .	harelip .	Concept	Entity	Attribute of Concept
+why does n't maurya have to worry about the sea anymore ?	it has already taken her husband and all her sons	everyone is dead	Event	Event Expression	Causal Relation
+why did jim and dave fight ?	daisy s affection .	for daisy s affection .	Concept	Common Noun Phrases	Causal Relation
+why does pete leave the island for good at the end of the story ?	he leaves so that kate and phillip can be together .	to become governor	Event	Event Expression	Causal Relation
+what is the name of newton s home planet ?	anthea	anthea	Concept	Entity	Attribute of Concept
+who rescues curdie from the goblins ?	princess irene	irene .	Concept	Entity	Event Argument - Concept
+what kinds of killings does lazarus commit ?	lazarus commits mercy killings on patients .	mercy killings	Concept	Common Noun Phrases	Event Argument - Concept
+why did the cia decide not to release the results of newton s rigorous testing ?	in fear that people would not believe them	because they think they will not be believed and instead embarrass the government	Event	Event Expression	Causal Relation
+who punishes troilus ?	the god of love	the god of love	Concept	Entity	Event Argument - Concept
+in what estate did helen live with huntingdon ?	grassdale .	wildfell hall .	Concept	Book-Specific	Relation between Concepts
+who bought sunnybrook farm for construction purposes ?	the railway company	railway company	Concept	Entity	Event Argument - Concept
+what does laura offer to the goblins ?	some of her hair and a tear	a lock of her hair and a tear	Concept	Common Noun Phrases	Event Argument - Concept
+what is landsmann s ultimate profession ?	lawyer	a lawyer	Concept	Common Noun Phrases	Attribute of Concept
+what city did monck march into ?	london	the city of london .	Concept	Entity	Event Argument - Concept
+what is another name for the goddess diana ?	cynthia	cynthia	Concept	Entity	Relation between Concepts
+who does pozdnyshevs wife start to like ?	troukhatchevsky	a fellow violinist .	Concept	Entity	Event Argument - Concept
+how would classify the kind of character holmes was ?	protagonist .	fresh and fair	Attribute	States	Attribute of Concept
+why does ann not return mary s feelings of affection ?	because ann is already involved in an unrequited love .	because she is in unrequited love with someone else	Event	Event Expression	Causal Relation
+what does diana do with a revolver when ahmed decides to send her away ?	tries to kill herself	tries to shoot herself .	Event	Event Expression	Temporal Relation
+who told the sisters their brother may be dead ?	the priest	the priest	Concept	Common Noun Phrases	Event Argument - Concept
+what is the condition that brewster s uncle makes for giving him the inheritance ?	brewster must spend the one million dollars from his grandfather s inheritance in a year .	could not keep any of grandfather s money	Attribute	Descriptions	Event Argument - Concept
+who drank from the spring at cynthia s revels ?	all the courtiers and ladies who attended cynthia s revels	the courtiers and ladies that are there and asotus	Concept	Common Noun Phrases	Event Argument - Concept
+why is immigration of jews a problem in the story ?	the non-jewish public fear their numbers	the native population is concerned about there being too many in their area .	Event	Event Expression	Causal Relation
+who is the governor s son ?	lodowick	lodowick .	Concept	Entity	Relation between Concepts
+what does beerbohm say is the one habit that makes soames noticable ?	he always wears the same gray cape and soft black hat	his wardrobe of choice .	Attribute	Descriptions	Attribute of Concept
+who do laura and lizzie tell about the evil of goblin fruit ?	their children	their children .	Concept	Entity	Event Argument - Concept
+what is the name of the farm rebecca lived on with her siblings ?	sunnybrook farm	sunnybrook farm	Concept	Book-Specific	Event Argument - Concept
+what would replace the king on his throne ?	an ape	an ape .	Concept	Common Noun Phrases	Event Argument - Concept
+where does pete say kate went when she left him ?	to see an uncle in liverpool	to liverpool to live with a fictional uncle .	Event	Event Expression	Nested Relation
+what does pierce armitage prepare to do ?	claim his daughter .	claim innocent legally as his daughter .	Event	Event Expression	Nested Relation
+how many children does jim blakeston have ?	5	jim blakeston has five children .	Attribute	Numerics	Attribute of Concept
+why does phillammon travel to alexandria ?	to hear hypatia lecture .	to attend hypatia s lectures	Event	Event Expression	Causal Relation
+what does rebecca name the farm ?	sunnybrook	sunnybrook	Concept	Book-Specific	Event Argument - Concept
+where do anne and philippa stay after their first year in college ?	patty s place	patty s place cottage	Concept	Book-Specific	Temporal Relation
+"in the opening of the play , whose home is the dinner party held at ?"	sir robert chiltern	sir robert chiltern	Concept	Entity	Event Argument - Concept
+what was innocent lured into ?	a romance .	a romance .	Concept	Common Noun Phrases	Event Argument - Concept
+why does pozdnyshev not chase after the violinist ?	because it would be ridiculous to run after him in socks	to not appear rediculous	Event	Event Expression	Causal Relation
+what did madam de merret and her husband do after walling off the closet ?	they stayed in the bedroom for a few days with the sounds of her lover trapped .	stay in the bedroom	Event	Event Expression	Temporal Relation
+what did dain vow to come back and help almayer with ?	he vowed to come back and help almayer find the gold mine .	finding the gold mine	Event	Event Expression	Nested Relation
+who is christopher blake ?	he is a descendant of a rich and arisocratic family .	a descendant of a rich family .	Attribute	States	Attribute of Concept
+what is fashionable district in london called ?	grosvenor square	grosvenor square	Concept	Entity	Attribute of Concept
+what happens to claude at the end of the story ?	he hangs himself .	he hangs himself	Event	Event Expression	Temporal Relation
+what is the name of the messenger from the inca of perusalem ?	captain duval	captain duval	Concept	Entity	Relation between Concepts
+what was herzi securing from the ottoman authorities ?	an official legal sanction .	legal sanction	Concept	Common Noun Phrases	Event Argument - Concept
+what is the name of grant s yacht ?	the duncan	the duncan .	Concept	Book-Specific	Relation between Concepts
+what happened on september 3rd 1651 ?	rev . nehemiah holdenough ceded the pulpit .	thanksgiving service	Event	Event Expression	Temporal Relation
+who was cleared by poirot ?	cavendish	john cavendish	Concept	Entity	Event Argument - Concept
+what was jim s punishment for being found guilty ?	jim was banished from his town for two years .	2 years banishment	Event	Event Expression	Nested Relation
+why did the plan fail ?	the agent found diamond mines in south africa	bonafide diamond mines were disscovered in south africa	Event	Event Expression	Causal Relation
+what does the higher class of jews have to deal with ?	mobs	angry mobs	Concept	Common Noun Phrases	Event Argument - Concept
+why is christopher forced to work as a laborer ?	he needed money .	to support his mother and two sisters after the death of his father .	Attribute	States	Causal Relation
+what does charles do immediately after he and mary are wed ?	he leaves for the continent .	he leaves for the continent .	Event	Event Expression	Temporal Relation
+"when mary s brother dies , who is his heir ?"	mary .	mary .	Concept	Entity	Temporal Relation
+who does deerslayer refuse to marry ?	judith	judith	Concept	Entity	Event Argument - Concept
+why do the gods of darkness mark conan for death ?	he misused the symbol of jhebbal sag .	he misused the jhebbal sag symbol	Event	Event Expression	Causal Relation
+what was rodgers exposed to while investigating ?	radioactive gas	radioactive gas .	Concept	Common Noun Phrases	Temporal Relation
+what visual was used to describe going against the laws ?	going against the laws was compared to a child striking a parent .	citizens are bound to laws like children are bound to parents .	Attribute	Descriptions	Event Argument - Attribute
+where will they send an agent to find diamond mines ?	the ural mountains .	the ural mountains .	Concept	Entity	Nested Relation
+who switches theodora s letter to hector so that josiah receives it ?	morella winmarleigh .	morella winmarleigh	Concept	Entity	Causal Relation
+where was armitage discovered alive ?	italy	italy	Concept	Entity	Event Argument - Concept
+what is cathleen s relationship to nora ?	cathleen is nora s sister	sisters	Concept	Common Noun Phrases	Relation between Concepts
+who was the last owner of la grande breteche ?	madame de merret .	madame de merret .	Concept	Entity	Relation between Concepts
+what is the title of clause painting at the annual salon ?	plein air .	plein air	Concept	Common Noun Phrases	Relation between Concepts
+socrates believes that the best possible way to speak is using names that what ?	are like the thing that they are naming .	that are like the things they name	Attribute	Descriptions	Nested Relation
+what was the witch able to forsee for mankind ?	a utopia	utopia	Concept	Common Noun Phrases	Event Argument - Concept
+what happens to lady blythe after she confesses the truth about innocent s paternity ?	she dies	she dies .	Event	Event Expression	Temporal Relation
+"prior to her brother s death , how did mary spend most of her time outside of the home ?"	she worked with charities .	with her charity	Event	Event Expression	Nested Relation
+who committed the crime ?	alfred inglethorp and evelyn howard	alfred and evelyn .	Concept	Entity	Event Argument - Concept
+why do the americans have to devise new strategical methods in order to overcome the hans ?	the hans enhanced the security on their ships .	"rogers improved their security system , and thus provided them technological supremacy ."	Event	Event Expression	Causal Relation
+what suggestion does troilus make to criseyde in order for her not to be exchanged to the greeks ?	that they elope .	he suggests they elope	Event	Event Expression	Nested Relation
+"what did samson use to kill 3,000 men according to the bible ?"	samson used a donkey s jawbone .	a donkey jawbone .	Concept	Book-Specific	Event Argument - Concept
+who offers to make a deal with saomes ?	the devil	the devil	Concept	Entity	Event Argument - Concept
+why did mr. royall marry chartiy ?	to protect her because she was pregnant .	he married her to protect her .	Event	Event Expression	Causal Relation
+what do anne and phillipa have in common ?	they are both from bolingbroke .	both are from bolingbroke nova scotia	Event	Event Expression	Event Trigger
+why was ayrton labeled a traitor ?	he tried to seize control of the ship to practice piracy .	he tried to take over the britannia	Event	Event Expression	Causal Relation
+how is the appearance of enoch soames described in the story ?	dim and leaving little impression	"not very remarkable , but dim ."	Attribute	States	Attribute of Concept
+was herzl affiliated with zionism ?	only on behalf of them politically .	yes	Attribute	Descriptions	Event Argument - Attribute
+who are the americans fighting in their second war of independence ?	the hans .	hans .	Concept	Entity	Nested Relation
+why was n't mortimer at the house when his sister died and his brothers went insane ?	"although he had spent the previous day with them , he returned to cornwall that night"	he had left after a visit with them .	Event	Event Expression	Causal Relation
+what religion does hypatia hate ?	christianity .	christianity	Concept	Common Noun Phrases	Relation between Concepts
+why did n't anne accept gilberts proposal ?	"although they were close , anne wanted a very specific look of a man ."	she s dreaming of true love	Attribute	Descriptions	Causal Relation
+what does brewster charter in order to decrease his funds ?	a cruise	a cruise	Concept	Common Noun Phrases	Causal Relation
+what was holmes first name ?	sherlock .	sherlock	Attribute	States	Attribute of Concept
+why did mary marry charles ?	it was requested on her mother s deathbed .	because her mother requested it on her deathbed .	Event	Event Expression	Causal Relation
+whod id sir henry meet on his way to the lodge ?	captain wildrake .	cromwell	Concept	Entity	Event Argument - Concept
+who is pandarus ?	criseyde s uncle .	criseyde s uncle	Attribute	Descriptions	Relation between Concepts
+when does diana realize that she is in love with ahmed ?	during the ride back to camp .	when her escape attempt is foiled	Event	Event Expression	Temporal Relation
+how is james related to sibyl ?	he is her brother	brother	Concept	Common Noun Phrases	Relation between Concepts
+what shore does michael s corpse wash up on ?	the shore of donegal	donegal	Concept	Entity	Event Argument - Concept
+what was almayer doing when mrs. almayer snuck nina away ?	he was drinking with the dutch .	drinking	Event	Event Expression	Temporal Relation
+what was the story lizzie reminds laura about ?	"a story about jeanie , another girl ate the goblin s fruit and died after being really sick"	the tale of a girl named jeanie who ate goblin fruit and died .	Event	Event Expression	Nested Relation
+who kills barabas ?	the maltese .	the maltese	Concept	Entity	Event Argument - Concept
+what is virginia famous for ?	being famous	being famous	Attribute	Descriptions	Attribute of Concept
+"in the story , where does the dialogue take place ?"	the dialogue takes place in socrates ' cell .	the dialogue takes place in socrates cell .	Concept	Entity	Book Attribute
+how does paula kill herself ?	shooting herself with a rifle	with a rifle	Event	Event Expression	Nested Relation
+what gave romola a new meaning in life ?	helping people in a village affected by the plague .	helping the sick survivors	Event	Event Expression	Nested Relation
+what sentence did cynthia give to the symbolic vices ?	to bathe in the spring of helicon	make reperations and purify themselves .	Event	Event Expression	Nested Relation
+what religion does ruggiero convert to ?	christianity .	he converts to christianity .	Concept	Common Noun Phrases	Event Argument - Concept
+what are the sister s names ?	laura and lizzie	lizzie and laura	Concept	Entity	Book Attribute
+why did mrs. almayer push nina and dain together ?	she did n't trust white men and wanted nina to stay native .	she wanted them to marry	Event	Event Expression	Causal Relation
+what commission did inspector bucket accept ?	to find lady dedlock .	to find lady dedlock	Event	Event Expression	Nested Relation
+what event sparks otto being raised in a monastery ?	the death of his mother	his mom died while giving birth to him .	Event	Event Expression	Causal Relation
+who seizes on hutter s home ?	the hurons	the hurons	Concept	Entity	Event Argument - Concept
+why did almayer build his folly ?	he built the lavish house because he heard the british were invading .	to welcome incoming conquerors	Event	Event Expression	Causal Relation
+how does paul react to virginia s attraction to him ?	it makes him uncomfortable .	he was uncomfortable	Event	Event Expression	Causal Relation
+why does conan head off to bossonian marches ?	all of his friends are fathers now and he is bored visiting his homelands .	because he is bored	Event	Event Expression	Causal Relation
+what is the name of mortimer treginnis ' sister ?	brenda .	her name is brenda .	Concept	Entity	Relation between Concepts
+why is rebecca moving in with her aunts ?	to help ease financial strain on her family	less strain on family budget	Event	Event Expression	Causal Relation
+why does the princess agree to let ermyntrude pretend to be her ?	because she is timid .	the princess is very shy	Attribute	States	Causal Relation
+who attacks castle drachenhausen ?	baron henry	baron henry .	Concept	Entity	Event Argument - Concept
+why does the professor dislike the other boarders ?	because they are not from germany	because of their national traits and sub-human status/because they are not german	Attribute	States	Causal Relation
+where did the majority of the story occur ?	london .	the strand magazine	Concept	Entity	Book Attribute
+whose diary is read ?	charmian s	charmians	Concept	Entity	Event Argument - Concept
+which character does herr professor refer to as simian ?	the frenchman leon verdier .	leon	Concept	Entity	Event Argument - Concept
+who is george monck ?	governor of scottland	governor of scotland	Concept	Common Noun Phrases	Relation between Concepts
+what secret does ally accidentally share with charity about harney ?	that he is engaged to annabel	"she tells charity harney left with annabel , whom he is engaged to be married ."	Event	Event Expression	Nested Relation
+who killed dorian gray ?	himself	himself	Concept	Entity	Event Argument - Concept
+what was watson s professional title ?	dr .	doctor	Concept	Common Noun Phrases	Relation between Concepts
+what is the purpose of thomas jerome newton constructing a spaceship on earth ?	to bring others from his home planet of anthea back to earth	so that he can ferry the remaining antheans to earth	Event	Event Expression	Causal Relation
+who does brewster inherit the money from ?	his grandfather	his grandfather	Concept	Entity	Event Argument - Concept
+how old is conan ?	he is around forty .	forty .	Attribute	Numerics	Attribute of Concept
+who does dorian meet through basil ?	henry wotton	lord henry wotton .	Concept	Entity	Event Argument - Concept
+how many deaths was dorian directly responsible for in the story ?	two	four .	Attribute	Numerics	Event Argument - Attribute
+what did the witch give to people who were not beautiful ?	strange dreams	strange dreams	Concept	Book-Specific	Nested Relation
+who is the prisoner of war calchus persuades the greeks to exchange for his daughter ?	antenor	antenor	Concept	Entity	Nested Relation
+"why is grassou still resentful , despite his potentially advantageous marriage ?"	he feels as the he is still not a real artist .	because he is not a true artist .	Event	Event Expression	Causal Relation
+what two leaders are at war in the poem ?	charlemange and agramante	charlemagne and agramante	Concept	Entity	Event Argument - Concept
+who opposed the zionist groups ?	herzl opposed the zionist groups .	herzl	Concept	Entity	Event Argument - Concept
+where does lady dedlock believe esther to be when the story starts ?	she believes her to be dead .	she s dead	Attribute	States	Event Argument - Attribute
+who is traveling with kamala to see the budda ?	siddhartha s son .	her son	Concept	Entity	Event Argument - Concept
+"when rogers proved himself to the americans , what did they do ?"	made him the boss .	the americans devised new tactics and started hunting for traitors in their group .	Event	Event Expression	Temporal Relation
+whom did ermyntrude pretend to be ?	the princess	a princess .	Concept	Common Noun Phrases	Event Argument - Concept
+what nickname does sibyl have for dorian gray ?	prince charming	prince charming .	Concept	Book-Specific	Event Argument - Concept
+name the major theme used in the adventures of sherlock holmes ?	social injustice	the pointing out of social injustices .	Attribute	Book Attributes	Book Attribute
+what did charity do for her job ?	librarian .	charity was a librarian and ward of mr. royall .	Concept	Common Noun Phrases	Attribute of Concept
+ithamore hates what religious group ?	christians	christians	Concept	Common Noun Phrases	Attribute of Concept
+how does mr. peters attempt to scare tom ?	he almost runs tom and ned over with a speedboat .	by nearly running him over with a boat .	Event	Event Expression	Nested Relation
+what triggers the transfer ?	an earthquake	volcano eruption	Concept	Common Noun Phrases	Event Argument - Concept
+how come vervelle is so impressed with grassou ?	he thinks grassou has the talents of famous artists	the forgeries he s able to do and make a lot of money from .	Event	Event Expression	Causal Relation
+to whom does miranda write her letters ?	her mother .	her mother	Concept	Entity	Event Argument - Concept
+who was in reponsible for choosing the war dukes ?	the men of the mark .	the men of mark	Concept	Entity	Attribute of Concept
+what permanently disfigured esther ?	smallpox	an illness	Concept	Common Noun Phrases	Event Argument - Concept
+in what way did christopher atone for his sin ?	he helped will escape and accepted the punishment .	christopher aids will s escape and takes the punishment .	Event	Event Expression	Nested Relation
+who does cynthia represent in the masque ?	queen elizabeth	queen elizabeth	Concept	Entity	Event Argument - Concept
+what is emily howard to alfred inglethorpe since she pretended to hate him ?	a kissing cousin'	his kissing cousin	Concept	Common Noun Phrases	Relation between Concepts
+why does siddhartha become a beggar ?	to find spiritual illumination .	to become a shramana	Event	Event Expression	Causal Relation
+where are many of pierres forgeries displayed ?	ville-d'avray .	in the vervelle mansion .	Concept	Entity	Event Argument - Concept
+when did harney and charity kiss for the first time ?	on the trip to nettleton .	on a trip to nettleton	Event	Event Name	Temporal Relation
+what did mr. royall do after the death of his wife ?	tried to force himself into charity s bedroom and asks her to marry him .	ask charity to marry him .	Event	Event Expression	Temporal Relation
+what do mabel and lord goring find at the party ?	a diamond brooch that lord goring gave someone years ago .	diamond brooch	Concept	Book-Specific	Event Argument - Concept
+where is the boarding house located ?	paris	paris	Concept	Entity	Relation between Concepts
+the study og cratyus is ?	the studyof names and their origin	study of language	Attribute	Descriptions	Attribute of Concept
+what causes anxiety among the jewish people ?	the sentiment of do n't buy from the jews	distrust and the statement do n't buy from jews .	Attribute	Descriptions	Causal Relation
+what is orestes ' goal ?	to become emperor of egypt & africa .	to become emperor of egypt and africa .	Attribute	Descriptions	Attribute of Concept
+why wo n't kate s father let her marry pete ?	because he does not have enough money	he has low prospects	Attribute	States	Causal Relation
+who is the main protagonist in the story ?	otto	otto	Concept	Entity	Book Attribute
+why is barabas angry at the maltese governor ?	barabas believes the governor has robbed him of his wealth .	he robbed him .	Event	Event Expression	Causal Relation
+what is unique about the phonetic spelling of the future ' article that discussed beerbohm s story ?	"the spelling of most words is modified , presumably because of the change of language with time"	the english lanuage has evolved .	Attribute	Descriptions	Attribute of Concept
+what does cokeson discover about the check ?	it has been forged	that it was forged from nine to ninety pounds .	Event	Event Expression	Nested Relation
+why do the goblins turn on lizzie ?	they realize she wants the fruit to help another person .	because she wanted to buy their fruit for sister not eat it herself	Event	Event Expression	Causal Relation
+what firm is willing to take falder back ?	james how & son	james how & son	Concept	Entity	Event Argument - Concept
+who tries to enter the manor ?	dr. horace bianchon	dr. bianchon	Concept	Entity	Event Argument - Concept
+what does the witch want for the world ?	perfect harmony	more just and fair	Attribute	Descriptions	Attribute of Concept
+why did almayer build the house ?	he believed the british were coming and wanted to welcome them .	in order to invite the invading state	Event	Event Expression	Causal Relation
+what was the practical reasoning crito used to try and convince socrates to leave ?	crito reasoned that his and his friends reputations would suffer for not having done enough to help socrates .	that if socrates dies it will reflect badly on his friends .	Event	Event Expression	Nested Relation
+why does kate s father reject pete s marriage offer ?	kate s father thinks pete s prospects are not good enough .	because of his low prospects	Attribute	States	Causal Relation
+who gets captured by the picts and tied up ?	balthus	a scout and balthus .	Concept	Entity	Event Argument - Concept
+how may volumes has darnley written on the origins of life ?	3	three	Attribute	Numerics	Event Argument - Concept
+an artist uses what to express the essence of their subject in a painting ?	color .	color	Concept	Common Noun Phrases	Attribute of Concept
+which boarder is from the same country as miranda ?	violet ray	violet ray from new york	Concept	Entity	Relation between Concepts
+what was the name of the girls ' cottage ?	patty s place	patty s place	Concept	Entity	Relation between Concepts
+what inspires claude to paint a dead body ?	death of his son	his son passes away	Event	Event Expression	Causal Relation
+what happened to bartley s father ?	he died	died at sea	Attribute	States	Attribute of Concept
+what estate did helen eventually buy ?	staningley .	staningley	Concept	Book-Specific	Event Argument - Concept
+how did christopher end up in prison ?	he ended up killing mr.fletcher .	he took the punishment after making will hate his grandfather so much that killed him .	Event	Event Expression	Nested Relation
+who does miranda say rebecca is in the image of ?	rebecca s father	lorenzo dimedici	Concept	Entity	Nested Relation
+who is peggy gray in the story ?	another love interest of montgomery brewster	monty s love interest and woman he marries .	Attribute	Descriptions	Attribute of Concept
+who attends claude s funeral at the end of the story ?	sandoz and bongrand .	sandoz and bongrand .	Concept	Entity	Event Argument - Concept
+what did anne really want to do with her life ?	she really wants to go and get her schooling at a college where she is from .	she wants to go to redmond college	Event	Event Expression	Event Trigger
+what song do pozdnyshev s wife and her lover perform together ?	kreutzer sonata	kreutzer sonata	Concept	Common Noun Phrases	Event Argument - Concept
+who accuses ruggiero of being a traitor ?	rodomonte .	rodomonte	Concept	Entity	Event Argument - Concept
+"instead of death , how does baron henry treat otto ?"	he cuts off his right hand	he cuts off his right hand	Event	Event Expression	Event Trigger
+what happened to the long parliament ?	it dissolved itself .	it dissolved itself	Event	Event Expression	Event Trigger
+what was found on the north-most island ?	a body	her brother	Concept	Book-Specific	Event Argument - Concept
+what type of place do the jewish people want to live ?	a place without persecution .	a state .	Attribute	Descriptions	Attribute of Concept
+where was the collection of stories popular even with the soviet ban ?	the black market	on the black market .	Concept	Common Noun Phrases	Event Argument - Concept
+what is the name of the senecan ghost ?	machiavel	machiavel	Concept	Entity	Attribute of Concept
+how old is ernest when he receives alethea s gift ?	ernest was 28 .	28 yrs old	Attribute	Numerics	Temporal Relation
+how many war dukes were chosen from the house of wolfings ?	one war duke was chosen from the house of wolfings .	one .	Attribute	Numerics	Event Argument - Attribute
+"when mary was younger , how did her mother fill her free time ?"	reading novels	she was obsessed with novels .	Event	Event Expression	Temporal Relation
+what country is used as the example of a civilised country in which persecution still exists ?	france was given as an example .	france	Concept	Entity	Attribute of Concept
+who persuades socrates to escape ?	crito	crito convinces socrates to leave his cell .	Concept	Entity	Nested Relation
+what happened to the doctor who was called to the house after mortimer s brothers went insane ?	he collapsed at the sight of brenda s body	he collapsed into a chair .	Event	Event Expression	Temporal Relation
+what type of weather conditions were there when innocent was left as a baby ?	a violent storm	there was a violent storm .	Event	Event Name	Temporal Relation
+what point of view are the stories told in ?	first person .	first person narrative	Attribute	Book Attributes	Book Attribute
+how could alfred inglethorpe be acquitted of his crimes ?	due to double jeopardy and false evidence	yes he was not present . he has an alibi	Event	Event Expression	Causal Relation
+where is princess irene s mother ?	she is dead .	dead	Attribute	States	Attribute of Concept
+who is the daughter of atlantides ?	the witch .	the witch	Concept	Book-Specific	Relation between Concepts
+where does the girdlestone firm plan to say that they have discovered diamond mines ?	the ural mountains	ural mountains .	Concept	Common Noun Phrases	Nested Relation
+"had socrates escaped , what would he become ?"	an outlaw	an outlaw	Concept	Common Noun Phrases	Causal Relation
+what does socrates believe about being judged in the after life if he breaks out of prison ?	it would have a negative effect	he would be judged harshly for doing so .	Event	Event Expression	Causal Relation
+what causes romola to see tito s true character ?	he sells bardo s library .	political turmoil in france .	Event	Event Expression	Nested Relation
+who is the saracen king of africa ?	agramante .	agramante	Concept	Entity	Relation between Concepts
+how was the estate finally restored ?	"through the efforts of maria wyndham , who was mr. fletcher s granddaughter and heir , christopher was pardoned and the estate was returned to him ."	through marriage	Event	Event Expression	Nested Relation
+whose castle did angelica escape from ?	bavarian duke namo .	bavarian duke namo	Concept	Entity	Event Argument - Concept
+whose reflection did holdenough see in the mirror ?	a college friend who had drowned .	a college friend that had drowned .	Attribute	Descriptions	Event Argument - Concept
+who is laura to lizzie ?	her sister .	she is her sister .	Attribute	Descriptions	Relation between Concepts
+who is the narrator in part one ?	gilbert markham .	gilbert markham .	Concept	Entity	Book Attribute
+what position does anne take at summerside school ?	principal	principal	Attribute	States	Event Argument - Attribute
+what is the subject of the painting that claude ca n't complete ?	a view of the lle de la cite .	a screen scape of the ile de la cite .	Concept	Book-Specific	Nested Relation
+what is his wife s name ?	paula .	paula .	Concept	Entity	Relation between Concepts
+who does daisy work for ?	white people	white people	Concept	Common Noun Phrases	Attribute of Concept
+what was otto s replacement hand made of ?	silver	silver	Attribute	States	Attribute of Concept
+who challenges the courtiers to court compliment competition ?	asotus	asotus	Concept	Entity	Nested Relation
+what does monty bail out with his money ?	a bank .	a bank .	Concept	Common Noun Phrases	Event Argument - Concept
+what kind of man does laura marry ?	laura marries an army officer .	an army officer	Concept	Common Noun Phrases	Event Argument - Concept
+what does the witch use to create the hermaphrodite ?	fire and snow	fire and snow	Concept	Common Noun Phrases	Nested Relation
+how does lord and lady glenarvan contact mary and robert ?	through an announcement in the newspaper	through an announcement in a newspaper .	Event	Event Expression	Nested Relation
+who is aaron hancock ?	a hobo philosopher	one of the men that character evan graham is based upon	Attribute	Descriptions	Attribute of Concept
+what would socrates do if the decision to leave his cell was unjust ?	he would stay and face his execution .	persuade the laws to let him go .	Event	Event Expression	Causal Relation
+who ultimately rejects the study of language ?	socrates rejects it .	socrates	Concept	Entity	Event Argument - Concept
+how many times is diana kidnapped in the story ?	twice	once	Attribute	Numerics	Event Argument - Attribute
+where does paula ride the stallion ?	into a swimming take	in to a swimming tank	Concept	Common Noun Phrases	Event Argument - Concept
+what two gods do the germanic tribes worship ?	odin and tyr	odin and tyr	Concept	Entity	Nested Relation
+in what year did rogers awaken from his deep slumber ?	2419	2419 .	Attribute	Numerics	Event Argument - Attribute
+liza lives on what street ?	vere street	vere street .	Concept	Book-Specific	Relation between Concepts
+who moved to chicago to perform mercy killings ?	lazarus	seth lazarus	Concept	Entity	Nested Relation
+what does maurya lose her family to ?	the sea .	sea .	Concept	Common Noun Phrases	Event Argument - Concept
+how many children did the main character and his wife have ?	five	five	Attribute	Numerics	Book Attribute
+how does sir henry let alice know he approves of her wedding to everard ?	through a letter	he writes her a letter	Event	Event Expression	Nested Relation
+how old is jim blakeston ?	40	40	Attribute	Numerics	Attribute of Concept
+why did herzl want legal sanction from the ottoman authorities ?	so the jews could immigrate without persecution .	to stop the influx of jews into palestine	Event	Event Expression	Causal Relation
+what point of view did the witch seek to change in humans ?	point of view regarding death .	death	Concept	Common Noun Phrases	Event Argument - Concept
+what style of narrative is used in the story ?	first person .	first person narration .	Attribute	Book Attributes	Book Attribute
+who does monty confess to ?	peggy	peggy gray	Concept	Entity	Event Argument - Concept
+who wrote the scholary article which declared soames to be fictional ?	t. k. nupton	t.k..nupton .	Concept	Entity	Nested Relation
+what did the witch throw into a ditch ?	a coffin .	a coffin .	Concept	Common Noun Phrases	Event Argument - Concept
+who rescues princess irene and lootie from the goblins ?	curdie	curdie	Concept	Entity	Event Argument - Concept
+why did baron conrad left the castle undefended ?	because he was summoned by the imperial court	he takes the majority of his army as an escort to obey a summons to the imperial court	Event	Event Expression	Causal Relation
+what is the name of the turkish slave that is purchased ?	ithamore	ithamore	Concept	Entity	Attribute of Concept
+"what weapon did samson use to kill 3,000 men according to judges 18:18 ?"	"samson killed 3,000 men using donkey s jaw bone as a weapon ."	a donkey s jawbone .	Concept	Book-Specific	Nested Relation
+what gift is ermyntrude given as the princess ?	jewel	a jewel	Concept	Common Noun Phrases	Event Argument - Concept
+how does tito escape the rioters ?	he jumps into the arno river .	diving into arno river	Event	Event Expression	Nested Relation
+how long did the cruise to europe and egypt last ?	several months .	several months	Attribute	Numerics	Event Argument - Attribute
+how does the art-dealer describe grassou s skill level to virginie s father ?	he calls grassou a grand master	a grand master .	Event	Common Noun Phrases	Event Argument - Concept
+who is the italianate-greek scholar who shipwrecked in florence ?	tito melema .	medici	Concept	Entity	Nested Relation
+how many pict heads does conan say he will take for balthus s sacrafice ?	ten	ten	Attribute	Numerics	Nested Relation
+when does the story begin ?	world war i	during world war i	Event	Event Name	Book Attribute
+what does calchas give to the greeks to do ?	release cresida in exchange for a prisoner of war	exchange a prisoner of war	Event	Event Expression	Nested Relation
+after leaving kamala and the big city where does siddhartha return to ?	the river .	the river	Concept	Common Noun Phrases	Temporal Relation
+what profession does siddhartha take in his old age ?	he is a ferryman .	he is a ferryman .	Concept	Common Noun Phrases	Relation between Concepts
+what does raphael do to win victoria s love ?	he converts to christianity .	converts to christianity .	Event	Event Expression	Nested Relation
+what is a utopia ?	a perfect society	a perfect world that was more just and fair .	Attribute	Descriptions	Attribute of Concept
+what happens to esther after she is cured of the disease ?	she is permanently disfigured	she learns who her mother is .	Event	Event Expression	Temporal Relation
+what kind of sport does barney play in high school ?	barney plays basketball in high school .	basketball	Concept	Common Noun Phrases	Event Argument - Concept
+what happens to brewster the night before the deadline ?	the executor of his uncle s will disappears after liquidating all of the assets .	he finds out the executor of his uncle s will disappeared after liquidating the assets .	Event	Event Expression	Temporal Relation
+while getting water from the well at twilight what sounds do the sisters hear ?	the noises of the goblins selling their wares at the market	goblin chanting of their fruit	Event	Event Expression	Temporal Relation
+who did orlando fall in love with ?	the princess angelica .	angelica	Concept	Entity	Event Argument - Concept
+how does ithamore die ?	barabas poisons him	poisoning	Event	Event Expression	Nested Relation
+what school do they attend together after college ?	harvard medical school	harvard medical school	Concept	Entity	Event Argument - Concept
+what is the subject of cratylus ?	the correctness of names .	the correctness of names	Event	Event Name	Attribute of Concept
+who murders hypatia ?	a christian mob	a christian mob	Concept	Common Noun Phrases	Event Argument - Concept
+how many children do pozdnyshev and his wife have ?	five	a total of five .	Attribute	Numerics	Attribute of Concept
+what was the cause of the inca s country going bankrupt ?	a war	a foolish war .	Concept	Common Noun Phrases	Causal Relation
+what type of character does brewster demonstrate through his actions ?	strong moral character	strong moral character .	Concept	Common Noun Phrases	Event Argument - Concept
+who publicly objects to the exchange of a prisoner of war for criseyde ?	hector of troy	hector of troy	Concept	Book-Specific	Nested Relation
+what is the cavendish estate in england essex county known as ?	styles court	styles court .	Concept	Entity	Relation between Concepts
+who does innocent believe to be her true father ?	hugo jocelyn	hugo jocelyn .	Concept	Entity	Nested Relation
+what is the name of baron henry s fortress ?	castle trutzdrachen .	castle trutzdrachen	Concept	Entity	Attribute of Concept
+what does laura offer the goblins for a piece of fruit ?	a bit of her hair and a tear	a locket of hair and a tear	Concept	Common Noun Phrases	Event Argument - Concept
+which is the worst way to speak according to soccrates ?	using opposite kinds of names	the use of opposite names	Event	Event Expression	Nested Relation
+during what time period does this story take place ?	early 18th century	early 18th century .	Attribute	Numerics	Book Attribute
+where does helen find refuge ?	wildfell hall	staningley estate .	Concept	Entity	Event Argument - Concept
+what happen when renfry attempts to relaunch the ship ?	the ship runs in reverse .	the ship runs the course in reverse .	Event	Event Expression	Temporal Relation
+where did lady dedlock die ?	at the cemetery of her former lover captain hawdon .	at nemo s cemetery .	Concept	Entity	Event Argument - Concept
+what did charity tell harney to do on the letter she wrote him when he left ?	she told him to marry annabel .	to marry annabel .	Event	Event Expression	Nested Relation
+what profession does livingston have after leaving harvard ?	author	author	Concept	Common Noun Phrases	Temporal Relation
+what was anne s occupation before she went to college ?	she was a teacher	teacher .	Concept	Common Noun Phrases	Temporal Relation
+how old is virginia when she marries ?	30	30	Attribute	Numerics	Event Argument - Attribute
+where does mrs. mcbride have her picnic ?	versailles .	versailles	Concept	Entity	Event Argument - Concept
+where does helen find asylum ?	at wildfell hall .	wildfell hall	Concept	Entity	Event Argument - Concept
+what is the setting of the story ?	medieval germany	germany	Concept	Entity	Book Attribute
+what is mirandas view of rebecca ?	she is no sawyer and all randall	miranda feels that rebecca is not up to her standards .	Attribute	Descriptions	Relation between Concepts
+"what are women s dresses designed to do , according to pozdnyshev ?"	arouse men	they are designed to arouse men s desires .	Attribute	Descriptions	Attribute of Concept
+where does kate go when she flees phillips house ?	to london	london	Concept	Entity	Temporal Relation
+what century does deerslayer reside in ?	18th century	18th century	Attribute	Numerics	Attribute of Concept
+"after ann passes away , with whom did mary fall in love ?"	henry	she fell in love with henry .	Concept	Entity	Temporal Relation
+how has mr. fletcher gained his possessions in life ?	by cheating and dishonesty .	cheating and dishonesty .	Event	Event Name	Causal Relation
+how are alfred and evelyn related ?	they are cousins	alfred is her husband	Concept	Common Noun Phrases	Relation between Concepts
+what kind of work does anne leave behind in green gables ?	teaching	teacher	Concept	Common Noun Phrases	Event Argument - Concept
+why is harney exploring buildings ?	because he is preparing for a book on colonial houses	for a book he is preparing .	Event	Event Expression	Causal Relation
+how many blakeston children are there ?	5	five .	Attribute	Numerics	Attribute of Concept
+who is rebecca s best friend at riverboro ?	emma jane perkins	emma jane perkins	Concept	Entity	Relation between Concepts
+who are some of agramante s allies ?	marsilio and rodomonte	"marilio , the king of spain and a warrior named rodomonte"	Concept	Entity	Relation between Concepts
+how many years did rodgers remain in sleep ?	492	492	Attribute	Numerics	Event Argument - Attribute
+what does socrates introduce to give him an answer ?	the voice of the laws athens .	he used the laws of athens to help him .	Concept	Common Noun Phrases	Nested Relation
+why did agramante invade europe ?	to take revenge for the death of his father .	to avenge the death of his father	Event	Event Expression	Causal Relation
+who was having an affair with lady lowborough ?	arthur .	arthur	Concept	Entity	Event Argument - Concept
+which inventions of tom s is stolen ?	his airship .	an airship	Concept	Entity	Event Argument - Concept
+what year did the two friends attend harvard medical college ?	1958	1958	Attribute	Numerics	Event Argument - Attribute
+what analogy does socrates compare citizens and the law to ?	child and parent	citizens are bound to laws the same as children are bound to parents .	Concept	Common Noun Phrases	Event Argument - Concept
+who is jeanie ?	a girl who died after eating the goblins ' fruit	a girl who had died after eating the goblins ' fruit .	Attribute	Descriptions	Attribute of Concept
+where does diana go on her month-long trip ?	the desert	the desert	Concept	Common Noun Phrases	Event Argument - Concept
+what is the connection between esther and lady dedlock ?	mother and illegitimate child	mother and daughter	Concept	Common Noun Phrases	Relation between Concepts
+what was the purpose of crito s visit ?	to smuggle socrates out of prison and into a life of exile .	the purpose of the visit was to persuade socrates to escape prison .	Event	Event Expression	Nested Relation
+what position does erymntrude s father hold ?	he is the archdeacon .	archdeacon	Concept	Common Noun Phrases	Attribute of Concept
+what happens shortly after otto returns to his father s castle ?	the nephew of baron frederick storms the castle and kidnaps otto	learns of his fathers life as a robber .	Event	Event Expression	Temporal Relation
+what does evelyn vane claim leverett is always talking about ?	the color of the sky	the color of the sky .	Attribute	Descriptions	Nested Relation
+who did the witch want to have reveal their own lies ?	the scribe .	the scribe .	Concept	Entity	Nested Relation
+what do the goblins do when they discover lizzie is trying to buy goblin fruit to help her sister ?	they attack her .	they assault her and try to physically force her to eat their fruit .	Event	Event Expression	Temporal Relation
+how many languages are the clues in ?	three	three languages .	Attribute	Numerics	Attribute of Concept
+how is mary initially educated ?	she educates herself using books and the natural world .	nature and books	Attribute	Descriptions	Event Argument - Attribute
+what is the strange thing about jeanie s grave ?	grass does not grow over it .	no grass grows over it	Attribute	Descriptions	Attribute of Concept
+what is captain grant s daughter s name ?	mary	mary	Concept	Entity	Relation between Concepts
+why are the antheans needing a new home ?	lack of resources	drought and other shortages	Event	Event Name	Causal Relation
+how does the german boarder see louis ?	as decadent	likeable and brave	Attribute	States	Attribute of Concept
+why did dominic s daughter marry the australian man ?	because the fitzgerald family needed brown s money	for financial reasons	Event	Event Expression	Causal Relation
+where is monsieur de merret returning home from when he catches his wife by and her lover by surprise ?	a business trip	he has been away on a business trip .	Event	Event Name	Temporal Relation
+where does pete go to seek his fortune ?	"pete goes to kimberly , south africa"	kimberly	Concept	Entity	Event Argument - Concept
+what is the reward to barabas for helping the turkish army sack malta ?	he is given governorship of the city .	governorship of the city .	Concept	Common Noun Phrases	Causal Relation
+when does ahmed realize he is in love with diana ?	ahmed realizes he is in love with diana when she is kid napped by his rival .	when she is kidnapped	Event	Event Expression	Temporal Relation
+what does his friend s will state about the daughter ?	"if she dies before coming of age , john becomes the sole heir ."	she is the sole heir and her death would leave everything to john	Event	Event Expression	Nested Relation
+what type of characteristics does hermaphroditus have ?	both male and female	a creature both male and female with wings .	Attribute	Descriptions	Attribute of Concept
+whose farm was innocent raised on ?	hugo jocelyn	hugo jocelyn .	Concept	Entity	Event Argument - Concept
+what distinct facial figure does aaron hancock have ?	a long beard	a long beard	Attribute	Descriptions	Attribute of Concept
+who does she observe at sleep ?	mankind	mankind	Concept	Common Noun Phrases	Event Argument - Concept
+what is the main conflict of the story ?	the love triangle	a love triangle	Concept	Common Noun Phrases	Book Attribute
+how does innocent plan to earn a living ?	by writing and making a name for herself .	by writing .	Event	Event Name	Nested Relation
+who does tom find out is having problems financially ?	his friend mr. damon .	mr. damon	Concept	Entity	Nested Relation
+who blackmails barabas ?	ithamore	ithamore	Concept	Entity	Event Argument - Concept
+what was grassou s wife s name ?	virginie .	virginie	Concept	Entity	Attribute of Concept
+which sister stays at the stream ?	laura	laura	Concept	Entity	Event Argument - Concept
+what does claude paint after his son dies ?	he paints a picture of the dead body .	a picture of his son s dead body .	Concept	Common Noun Phrases	Temporal Relation
+who picked up a hock bone and knocked dave out ?	jim	jim	Concept	Entity	Event Argument - Concept
+what was missing from the letter ?	the addressee	name	Concept	Common Noun Phrases	Attribute of Concept
+what does maurya predict will happen to michael and bartley ?	bartley and michael wil die	they die	Event	Event Expression	Nested Relation
+who tells romola of tito s secret family of tessa and their children ?	baldassarre	baldassarre	Concept	Entity	Event Argument - Concept
+who defends lazarus during his murder trial ?	landsmann	bennett landsmann	Concept	Entity	Temporal Relation
+in what town does the story begin ?	cornwall	they are in cornwall .	Concept	Entity	Book Attribute
+who does socrates compare going against the law to ?	your parents	one s parents .	Concept	Common Noun Phrases	Event Argument - Concept
+what happens to troilus when he first learns of the plan to bed him and cresida ?	he faints	he swoons	Event	Event Expression	Temporal Relation
+how long after madame de merret dies before people are allowed inter manor ?	50 years	50 years	Attribute	Numerics	Temporal Relation
+what was josiah s reaction when he received the letter meant for the lord ?	he realized he had been standing in the way of theodora s happiness	he has made his wife unhappy	Event	Event Expression	Temporal Relation
+why were jim and dave fighting ?	jim and dave were fighting because they both wanted to win the affection of daisy .	for daisy s affection	Event	Event Expression	Causal Relation
+who acts as falder s lawyer ?	frome	lawyer frome .	Concept	Entity	Event Argument - Concept
+how does govinda finally find enlightenment ?	by kissing siddhartha s forehead and seeing into the eternal circle of life and completeness that siddhartha has experienced .	he has the same visions as siddhartha	Event	Event Expression	Causal Relation
+where did the works gain popularity ?	in the black market .	a black market of banned books .	Concept	Entity	Event Argument - Concept
+why did madam de merret s husband hire a mason to wall off the closet ?	because he knew she was lying about there being a man in the closet .	"because he suspected her lover was inside , but she threatened to leave him if he opened it ."	Event	Event Expression	Causal Relation
+who buys sunnybrook farm ?	railroad company	a railway company	Concept	Entity	Event Argument - Concept
+where does mary travel with ann in hopes of making her better ?	lisbon	lisbon	Concept	Entity	Event Argument - Concept
+what did lord goring find and take ?	a diamond brooch	a diamond brooch	Concept	Common Noun Phrases	Event Argument - Concept
+"after the men who have captured travis fox discover he is an archaeologist , what do they want from him ?"	they want him to join their team to travel back in time and look for a spaceship .	they want him to help look for a spaceship	Event	Event Expression	Temporal Relation
+what are the names of the sisters ?	laura and lizzie	laura and lizzie	Concept	Entity	Attribute of Concept
+who do the goblins imprision ?	curdie	curdie	Concept	Entity	Event Argument - Concept
+why did n't the picture restore itself after dorian decided to be good ?	his motives were n't pure	his true motives for being good were still vanity and curiosity .	Event	Event Expression	Temporal Relation
+what gods do the goths worship ?	odin and tyr	odin and tyr .	Concept	Entity	Event Argument - Concept
+where is hector from ?	troy	troy	Concept	Entity	Relation between Concepts
+what does the old language sound compared with the new language ?	like a barbaric tongue .	barbarous tongue	Attribute	Descriptions	Attribute of Concept
+which descriptions of the future world does soames provide upon his return ?	vague and nondescript	ones that are vague	Attribute	Descriptions	Temporal Relation
+into what three sections is the forest of mirkwood divided into ?	"upper-mark , mid-mark and nether-mark"	"upper , mid and nether mark"	Concept	Entity	Relation between Concepts
+how long until someone will be permitted to enter la grande breteche ?	50 years after the owner s death .	50 years	Attribute	Numerics	Temporal Relation
+when does diana realize she is in love with ahmed ?	diana realizes she is in love with ahmed when he recaptures her from his rival who kidnapped her .	after she s recaptured	Event	Event Expression	Temporal Relation
+how were the men able to find fuel for the spaceship ?	the first planet had robots that fueled the ship .	they visited a refueling station .	Event	Event Expression	Causal Relation
+how many years passed before chingachgook and bumppo return to hutters ' house ?	15 years	15 years	Attribute	Numerics	Temporal Relation
+why did n't baron henry just kill otto instead of cutting his hand off ?	otto was so young .	because otto is young	Attribute	States	Causal Relation
+what is the name of the pictish wizard ?	zohar sag .	zogar sag	Attribute	States	Attribute of Concept
+why does ermyntrude want to get a job as a lady s maid ?	so she can find another rich man to marry .	her father told her to get the job .	Event	Event Expression	Causal Relation
+what is henry march s alias ?	hurry harry	hurry harry	Concept	Entity	Relation between Concepts
+what type of subjects does lantier like to paint ?	real subjects in real places .	real subjects	Concept	Common Noun Phrases	Event Argument - Concept
+whose daughter has innocent always thought she was ?	jocelyn	jocelyn s .	Concept	Entity	Nested Relation
+who marries kate ?	pete	pete .	Concept	Entity	Event Argument - Concept
+what type of ancestors did christopher blake have ?	rich ancestors .	aristocratic	Attribute	States	Attribute of Concept
+what happens when laura plants the seed from the goblin fruit ?	nothing grows from the seed	nothing grew .	Event	Event Expression	Temporal Relation
+how many siblings does rebecca have ?	six	six	Attribute	Numerics	Attribute of Concept
+who are the people that christopher supports besides himself ?	his blind mother and his two sisters .	his mother and two sisters	Concept	Entity	Event Argument - Concept
+who is the owner of the firm of girdlestone ?	john girdlestone	john girdlestone and his son	Concept	Entity	Relation between Concepts
+how does violet feel about miranda ?	she finds her provincial and dislikes her	she finds miranda horrible	Attribute	Descriptions	Relation between Concepts
+where does gilbert discover that helen is rich ?	in grassdale .	staningley .	Concept	Entity	Event Argument - Concept
+how did tom find out about photos being transmitted over telegraph lines ?	reading a news event .	he read it in the news .	Event	Event Expression	Nested Relation
+who is ernest s godfather ?	overton	"overton , the narrator of the story ."	Concept	Entity	Relation between Concepts
+what is tulkinghorn concerned about ?	lady dedlock s secret could be a threat to the interests of sir . leicester .	that lady dedlock s secret may compromise sir leicester	Event	Event Expression	Nested Relation
+what food is available after the shipwreck ?	tinned meat	tinned meat and champagne .	Concept	Common Noun Phrases	Temporal Relation
+where does the rescue team decide to search first ?	south america	south america .	Concept	Entity	Event Argument - Concept
+what were beerbohm and soames arguing about ?	whether or not beerbohm would have written about soames in such a fashion .	whether or not beerbohm would write something negative about soames	Event	Event Expression	Nested Relation
+how did anne feel after roy proposed to her ?	she realized she was only chasing a dream and was not in love with roy .	she realizes she does n't love him just the idea of being in love	Attribute	Descriptions	Temporal Relation
+what state is deerslayer located in ?	new york	new york .	Concept	Entity	Relation between Concepts
+who did the goths rely on to foretell the future ?	they relied on seers and psychics .	seers	Concept	Entity	Event Argument - Concept
+what does troilus try to persuade cresida to do ?	elope	elope	Event	Event Expression	Nested Relation
+where is grassou trying to enter ?	the academy .	the academy	Concept	Entity	Event Argument - Concept
+who is will ?	mr. fletcher s grandson .	mr. fletcher s grandson .	Concept	Entity	Attribute of Concept
+what college does anne attend at the beginning of the story ?	redmond college	redmond college	Concept	Entity	Event Argument - Concept
+where did harney go after leaving mr.royall s home ?	to a nearby village .	a nearby village .	Concept	Entity	Temporal Relation
+what did baron henry do to otto instead of killing him ?	he cutted off his right hand .	chopped off his right hand	Event	Event Expression	Nested Relation
+who was under suspicion for the forged check ?	william falder	william falder	Concept	Entity	Event Argument - Concept
+how does claude die ?	he hangs himself .	suicide	Event	Event Expression	Nested Relation
+what was the subject of this piece ?	its a critique on the subject of naming .	the correctness of names and naming things .	Attribute	Descriptions	Attribute of Concept
+why was mortimer trefinnis once estranged from his siblings ?	the matter of the division of the proceeds from selling the family business .	because of the division of proceeds from selling the family business .	Event	Event Expression	Causal Relation
+what is the name of lady dedlock s lover ?	captain hawdon	captain hawdon .	Concept	Entity	Relation between Concepts
+why did nina s mother want her to marry dain ?	she wanted her daughter to stay native because she did not trust the white men .	so that nina would be more native	Event	Event Expression	Causal Relation
+why does hypatia end up not converting to christianity ?	she is murdered before she has the chance .	she is murdered .	Event	Event Expression	Causal Relation
+what victory were they celebrarting at woodstock ?	victory at worcester .	the victory at worcester	Event	Event Name	Event Argument - Concept
+"fox , ashe and murdock disguised as what when they travelled to the past ?"	folsom hunters .	folsom hunters	Concept	Entity	Temporal Relation
+at which restaurant does soames meet beerbohm ?	restaurant du vingtieme siecle	restaurant du vingtieme siecle .	Concept	Entity	Event Argument - Concept
+why does eliza spread rumors about helen ?	gilbert markham becomes interested in mrs. graham .	she s jealous of gilbert s attention to helen	Attribute	Descriptions	Causal Relation
+what is the reason that the inca wanted to meet the princess ?	he wanted the princess to marry one of his sons .	he wanted to propose marriage	Event	Event Expression	Causal Relation
+what does raphael aben-ezra do to win the love of a woman named victoria ?	raphael aben-ezra converts to christianity .	converts	Event	Event Expression	Nested Relation
+what island happened to be captain grant s shelter ?	tabor island	tabor island .	Concept	Entity	Event Argument - Concept
+what happen to travis fox in the canyon ?	he was captured by three men .	gets captured	Event	Event Expression	Nested Relation
+who first gives dorian gray the idea of living a life where the only important things are beauty and sensual fulfillment ?	lord henry wotton	lord henry wotton .	Concept	Entity	Nested Relation
+who is claude s circle interested in challeging ?	establishment	the art world s establichment	Concept	Entity	Event Argument - Concept
+what was almayer always trying to do ?	he was always trying to find a hidden gold mine and become wealthy .	"improve his status by finding gold , wealth"	Event	Event Expression	Event Trigger
+what battle did albert die in ?	dunkirk .	the battle of dunkirk .	Concept	Entity	Event Argument - Concept
+who is dain maroola ?	"a malayan prince who wanted to talk to almayer about trading , but ended up falling in love with almayer s daughter nina ."	a malayan prince	Attribute	Descriptions	Attribute of Concept
+who did mrs. cheveley steal the diamond brooch from ?	"lord goring s cousin , mary berkshire ."	mary berkshire .	Concept	Entity	Event Argument - Concept
+for what reason did the soviet union ban the stoy ?	they alleged it contained occultism .	occultism	Event	Event Expression	Causal Relation
+who is sally s boyfriend ?	harry	harry .	Concept	Entity	Relation between Concepts
+what is henry s title ?	lord	lord .	Concept	Common Noun Phrases	Attribute of Concept
+where does the ship sail to ?	london	london .	Concept	Entity	Event Argument - Concept
+where is aryton left at when they find captain grant ?	tabor island	a desert island .	Concept	Entity	Temporal Relation
+what article of clothing does pozdnyshev feel is designed to arouse men ?	dresses	women s dresses .	Concept	Entity	Event Argument - Concept
+whose jubilee is occurring ?	queen victoria	queen victoria .	Concept	Entity	Event Argument - Concept
+what was newton in when he arrived on earth ?	a lifeboat	lifeboat	Concept	Entity	Event Argument - Concept
+who does princess befriend who works as a coal miner ?	curdie	curdie	Concept	Entity	Relation between Concepts
+how does barabas escape execution ?	he feigns his death .	feigning death	Event	Event Expression	Nested Relation
+which gang was the traitors ?	sinsings	the singsings	Concept	Entity	Attribute of Concept
+what does a drink from narcissus s spring cause the drinker to do ?	fall in love with themselves	grow dotingly enamored with themselves	Event	Event Expression	Causal Relation
+is plilammon n only child ?	he has a sister named pelagia .	"no , he has a long-lost sister ."	Attribute	Descriptions	Attribute of Concept
+what does peggy gray do despite discovering brewster is now poor ?	she marries him anyway .	accepts brewster and marries him .	Event	Event Expression	Nested Relation
+what causes hypatia to almost convert to christianity ?	hypatia has a spiritual crisis .	undergoes a spiritual crisis	Event	Event Expression	Causal Relation
+where does the wotton live ?	london	england .	Concept	Entity	Relation between Concepts
+what is basil infatuated with ?	dorian s beauty	dorian s beauty .	Attribute	States	Event Argument - Attribute
+who proposes to liza ?	tom	tom	Concept	Entity	Event Argument - Concept
+who is calchas ' daughter ?	criseyde	cirseyde	Concept	Entity	Relation between Concepts
+why does laura get sick ?	she s craving the goblin fruit and ca n't get any of their food	she craves the forbidden bruit but can	Event	Event Expression	Causal Relation
+why is pozdnyshev acquitted ?	because his wife had an affair	his wife was committing adultery	Event	Event Expression	Causal Relation
+where does the witch live ?	in a secret cave near a fountain	the atlas mountains	Concept	Entity	Relation between Concepts
+what does cratylus believe about names ?	that they have divine origins .	its correctness	Attribute	States	Event Argument - Attribute
+what happens to josiah immediately after he and thordora marry ?	he falls ill .	he gets sick	Event	Event Expression	Temporal Relation
+who has to care for christopher s mother and his two sister s after his father s death ?	christopher has to care for his mother and sisters after his father dies .	christopher	Concept	Entity	Temporal Relation
+how does kate try to kill herself ?	she jumps into the harbour .	by throwing herself in the harbour	Event	Event Expression	Nested Relation
+how many years did christopher work for mr. fletcher ?	he worked for 15 years .	fifteen years	Attribute	Numerics	Event Argument - Attribute
+who does raphael abenezra convert to christianity for ?	victoria .	victoria .	Concept	Entity	Event Argument - Concept
+who does diana represent ?	queen elizabeth .	queen elizabeth	Concept	Entity	Event Argument - Concept
+what is dick forrest s profession ?	a rancher	he s a rancher .	Attribute	States	Attribute of Concept
+what does soames complain to beerbohm about ?	that his great talent will remain unnoticed until after he is dead	that he is not recognised as a great writer .	Event	Event Expression	Nested Relation
+"before the girdlestones can complete their scheme , where are diamonds found ?"	in south africa	south africa .	Concept	Entity	Temporal Relation
+"on a trip to nettleton , what present does harney buy for charity ?"	a brooch	a brooch .	Concept	Common Noun Phrases	Temporal Relation
+what kind of injustices do the stories point out ?	social injustices .	social injustices	Concept	Common Noun Phrases	Event Argument - Concept
+why was travis fox in the canyon ?	he was looking for water for his cattle .	he was looking for water for his cattle .	Event	Event Expression	Causal Relation
+where is josiah brown from ?	australia	australia	Concept	Entity	Relation between Concepts
+what does mrs. cheveley want from lord goring in exchange for sir robert s letter ?	for lord goring to consent to marry her .	stolen diamond brooch	Event	Event Expression	Nested Relation
+who does anne befriend during her first week of school ?	philippa gordon	philippa gordon	Concept	Entity	Temporal Relation
+what does socrates state he should do instead of breaking the law ?	persuade his release	he should try and persuade the laws to let him go .	Event	Event Expression	Nested Relation
+what does curdie steal ?	one of the queen s shoes .	one of the shoes of the queen goblin	Concept	Entity	Event Argument - Concept
+why did diana grow up tomboyish ?	her parents died when she was young	parents died	Event	Event Expression	Causal Relation
+who does mortimer blame for the death of his sister ?	the devil	the devil .	Concept	Common Noun Phrases	Event Argument - Concept
+what was paul s profession before he became a professor ?	a clergyman	english clergyman .	Concept	Common Noun Phrases	Temporal Relation
+"after jarndyce cancels his engagement , who did esther become engaged to ?"	mr. woodcourt	mr. woodcourt	Concept	Entity	Temporal Relation
+what economic statement is the source of a lot of anxiety to the jews ?	the statement do n't buy from jews .	signs posted say ot to buy from jews	Event	Event Expression	Causal Relation
+where does barabas live ?	malta	malta	Concept	Entity	Relation between Concepts
+to what did the inca attribute his popularity ?	the war	the war will result in his being super-president of the republic .	Concept	Entity	Event Argument - Concept
+what does socrates compare creating a word to ?	the work of an artist .	to an artist s work .	Concept	Common Noun Phrases	Event Argument - Concept
+who had written the article soames found ?	t.k . nupton	t.k . nupton	Concept	Entity	Event Argument - Attribute
+what song do pozdnyshev s wife and the violinist perform together ?	kreutzer sonata	beethoven s kreutzer sonata	Concept	Entity	Event Argument - Concept
+bennett landsmann ends up working for what institution after school ?	yale-new haven hospital	yale-new haven hospital	Concept	Entity	Temporal Relation
+what does holmes kick over in the house ?	watering can	a pot used for watering .	Concept	Common Noun Phrases	Event Argument - Concept
+where did falder work after he got out of prison ?	james how and son	james how & son	Concept	Entity	Event Argument - Concept
+what advice does vasudeva give siddhartha about his son running away ?	to let him follow his own path .	let his son find his own path	Event	Event Expression	Nested Relation
+how does the professor refer to germany ?	as the fatherland	favorable and above other nations	Attribute	Descriptions	Event Argument - Attribute
+who was overseeing diana when she first escaped ?	gaston	gaston	Concept	Entity	Event Argument - Concept
+where does wyman end up after leaving harvard ?	silicon valley	silicon valley biotechnology company .	Concept	Entity	Temporal Relation
+what is bartley s relationship to maurya ?	bartley is maurya s son .	her last living son	Attribute	States	Relation between Concepts
+why did ashe wanted travis fox to travelled to the past ?	to look for a spaceship .	he studied archaeology	Event	Event Expression	Causal Relation
+what are the names of emily s two step sons ?	john and lawrence cavendish .	john and lawrence cavendish	Concept	Entity	Relation between Concepts
+who announces the events that are to come to the dismay of the others on stage ?	anaides	anaides	Concept	Entity	Nested Relation
+what is the main difficulty in rescuing the britannia ?	"only the latitude of the wreckage is known , not the longitude ."	the coordinates are erased and only the latitude is known .	Attribute	Descriptions	Nested Relation
+what did the housekeeper do when she discovered mortimer trefinnis ' sister dead and his brothers laughing and singing ?	she fainted .	she fainted	Attribute	States	Causal Relation
+who is the captain disguised as when he reaches windsor ?	a roundhead	as a roundhead	Concept	Common Noun Phrases	Temporal Relation
+what does diana tell the courtiers to do after the dance ?	purify themselves by bathing in a sacred spring	unmask	Event	Event Expression	Temporal Relation
+what does miranda leave rebecca in her will ?	the land and farm	a lot of money	Concept	Common Noun Phrases	Event Argument - Concept
+where do sir leicester dedlock and his wife live ?	on dedlock s estate at chesney wold .	sir dedlock s estate at chesney wold .	Concept	Entity	Relation between Concepts
+what does dorian decide is the only thing that will absolve him of wrongdoing ?	confession	a full confession .	Event	Event Name	Nested Relation
+who is the protagonist of this story ?	newton	thomas jerome newton	Concept	Entity	Book Attribute
+what does mary do for amy s family ?	mary pays off the family s debts .	pay their debts	Event	Event Expression	Event Trigger
+what does frome beg of the jury ?	the man s innocence .	compassion	Concept	Common Noun Phrases	Event Argument - Concept
+who s viewpoint is all but four of the storys told from ?	dr. watson	dr. watson	Concept	Entity	Book Attribute
+what is the fatal thought that grassou is believed unable to remove from his heart ?	that artists laugh at and ridicule his work .	that other artists laugh at his work .	Event	Event Expression	Nested Relation
+where did mrs. inglethorpe take her document case ?	to bed with her	to her bedroom .	Concept	Entity	Event Argument - Concept
+what is an example of accomplishments ?	dancing	having been taught to dance .	Event	Event Expression	Attribute of Concept
+who are emily s stepsons ?	john and lawrence cavendish	john cavendish and lawrence cavendish	Concept	Entity	Attribute of Concept
+what gift did the inca give to the princess ?	a jewel	a jewel	Concept	Common Noun Phrases	Event Argument - Concept
+why did alfred incriminate himself with false evidence ?	to use double jeopardy to get out of the crime if there was real evidence .	so it could be refuted at his trial .	Event	Event Expression	Causal Relation
+what hardship is occuring on anthea ?	severe drought	drought	Concept	Common Noun Phrases	Relation between Concepts
+who does mrs. mcbride marry ?	dominic fitzgerald .	dominic fitzgerald	Concept	Entity	Relation between Concepts
+the queen of the goblins wear what type of shoes ?	stone shoes	stone shoes .	Concept	Common Noun Phrases	Attribute of Concept
+what is john s final plan to regain riches for the firm ?	he wants to kill the daughter to save the firm .	have his son marry the girl who received a large inheritance .	Event	Event Expression	Nested Relation
+what news does falder learn about his love ?	she has sold herself	she was forced to sell herself	Event	Event Expression	Nested Relation
+what holiday does this story start on ?	thanksgiving	thanksgiving	Concept	Common Noun Phrases	Book Attribute
+who gets jealous and goes away on a trip ?	pozdnyshev	pozdnyshev	Concept	Entity	Event Argument - Concept
+why does maurya go after bartley ?	to bless his voyage	to bless his voyage	Event	Event Expression	Causal Relation
+who does liza s friend sally marry ?	harry .	harry	Concept	Entity	Relation between Concepts
+who found innocent s birth father ?	lord blythe .	lord blythe .	Concept	Entity	Relation between Concepts
+what is the name of the island on which paul and virginia land ?	chausible island	chausible	Concept	Book-Specific	Attribute of Concept
+who is innocent s birth mother ?	lady bluthe	lady blythe .	Concept	Entity	Relation between Concepts
+what ability do the seers have that the germanic tribes seek ?	a psychic ability	they can see the future .	Event	Event Expression	Nested Relation
+what doe paula wound herself with ?	a rifle	rifle	Concept	Common Noun Phrases	Event Argument - Concept
+who comforts otto while he is in captivity ?	"baron henry s daughter , pauline"	pauline	Concept	Entity	Temporal Relation
+what does gilbert accuse mrs. graham of ?	he accuses her of loving lawrence .	loving lawrence .	Event	Event Expression	Event Trigger
+what prestigious membership does sir roberts belong to ?	the house of commons	house of commons	Concept	Book-Specific	Event Argument - Concept
+what happens when lizzie returns home to laura from the goblin market ?	lizzie feeds laura the pulp and fruit from her body .	she is in a trance	Event	Event Expression	Temporal Relation
+"cronos and rhea are names of the ancestors of gods , but also what ?"	streams .	names of streams .	Concept	Common Noun Phrases	Attribute of Concept
+who was louis kerneguy introduced as ?	alberts scotch page .	albert s scotch page	Concept	Entity	Event Argument - Concept
+what is dabuche s occupaton besides painting ?	architect	a musician .	Concept	Common Noun Phrases	Relation between Concepts
+what is the name of the ship ?	australasian	astralasian .	Concept	Book-Specific	Attribute of Concept
+who does falder believe could be murdered by her husband ?	ruth honeywill	ruth honeywill	Concept	Entity	Nested Relation
+why did dorian blame basil ?	because basil introduced dorian to lord henry	he blames him for his fate	Event	Event Expression	Causal Relation
+where was virginia traveling to ?	chausible island	chausible island to meet her husband .	Concept	Entity	Event Argument - Concept
+who helps barabas get back some of his assets ?	abigail	abigail	Concept	Entity	Nested Relation
+what is the name of the character who is from new york ?	violet ray .	violet ray	Concept	Entity	Attribute of Concept
+what is the last painting of claude s accepted by the salon des refuses ?	a painting of his dead son .	a picture of his dead son	Concept	Book-Specific	Event Argument - Concept
+what is the deal the devil offers ?	soames will be transported to the future for one afternoon in exchange for his soul	the devil gets soames ' soul in exchange for soame to ge a glance of what people say about him posthumously as an author anwhile the	Event	Event Expression	Event Trigger
+"hermongenes believes that names do not reflect an objects nature , but have come about due to what ?"	custom .	custom and convention .	Concept	Common Noun Phrases	Causal Relation
+when princess irene hurts her hand who heals it for her ?	her great-great grandmotherwho is her namesake	her great great grandmother	Concept	Entity	Temporal Relation
+what does pierrie sandoz do for a living ?	he is a novelist .	novelist	Concept	Common Noun Phrases	Relation between Concepts
+what event does calchas foretell ?	the fall of troy	the fall of troy	Event	Event Name	Event Argument - Concept
+who is the bull god ?	apis	apis	Concept	Book-Specific	Attribute of Concept
+who sends hector the letter really meant for him ?	josiah	morella winmarleigh .	Concept	Entity	Relation between Concepts
+where are several of grassou s pieces displayed ?	in the vervelle mansion	vervelle mansion	Concept	Entity	Event Argument - Concept
+who is having serious financial problems ?	mr. damon .	mr. damon	Concept	Entity	Event Argument - Concept
+what play does his song recall ?	the acorn planters .	the acorn planters	Concept	Book-Specific	Event Argument - Concept
+who lives in the area called the mark ?	the goths	morris ' goths	Concept	Entity	Relation between Concepts
+from where does this play originate ?	church choir	boys ' company	Concept	Entity	Relation between Concepts
+who is maurya s brother ?	michael	maurya s brother is bartley	Concept	Entity	Relation between Concepts
+how many years into the future was soames sent ?	100 years	100 .	Attribute	Numerics	Event Argument - Attribute
+what does grassou do for a living ?	a mediocre painter of forgeries .	forges paintings .	Event	Event Expression	Relation between Concepts
+how many sections was the mark divided into ?	three .	three sections	Attribute	Numerics	Event Argument - Attribute
+what happens after richard is abdicated ?	the proctectorate was abolished and the country turns into chaos	chaos in the country	Event	Event Expression	Temporal Relation
+how does the clergyman on the island die ?	he falls off a cliff .	falls off of a cliff	Event	Event Expression	Event Trigger
+how long has socrates lived with the athenian way of life ?	seventy years	seventy years .	Attribute	Numerics	Event Argument - Attribute
+how does newton feel about failing his mission ?	bitter	he is bitter that his blindness has caused him to be unable to continue the mission	Attribute	States	Nested Relation
+what people are the gothic tribes defending themselves from ?	the romans	imperial rome	Concept	Common Noun Phrases	Event Argument - Concept
+what brings kate back to pete ?	she hears that her child is sick .	fortune	Event	Event Expression	Nested Relation
+what must siddhartha do to win kamala s love ?	he must become wealthy .	he must get rich	Event	Event Expression	Causal Relation
+what do the goblins do when they realize lizzie wants to buy a piece of fruit using a silver coin ?	"they got angry , tried to force her to eat the fruit , then they covered her in pulp and juice from the fruit"	they beat lizzie and try to force feed her the fruit .	Event	Event Expression	Temporal Relation
+what is liza kemp s profession ?	she is a factory worker .	factory worker	Attribute	Common Noun Phrases	Relation between Concepts
+"in 1496 , who declares war on the french king and florence , his ally ?"	the league of venice	league of venice	Concept	Common Noun Phrases	Event Argument - Concept
+ellen practiced what two things ?	bigamy and alcoholism .	she is a bigamist and an alcoholic	Concept	Common Noun Phrases	Event Argument - Concept
+whose money was it that monty had to spend all of in a year ?	his grandfather s money .	his grandfather s .	Concept	Book-Specific	Event Argument - Concept
+how did dorian know that his initial desire was fulfilled ?	his face in the painting changed	he notices his portrait changed .	Event	Event Expression	Nested Relation
+what is the real name of the man called deerslayer ?	natty bumppo	natty bumppo	Concept	Entity	Attribute of Concept
+what happens to laura as she again ate the goblin fruit ?	laura was disgusted by the taste of the fruit and was completely healed by morning .	it tasted disgusting	Event	Event Expression	Temporal Relation
+what is william platt s relationship to miranda hope ?	platt is a miranda s suitor	a previous suitor	Concept	Common Noun Phrases	Nested Relation
+who did the heiress emily cavendish marry after the death of mr. cavendish ?	alfred inglethorpe	alfred inglethorpe	Concept	Entity	Temporal Relation
+which traveler finds the other travelers sub-human ?	herr professor	herr professor	Concept	Entity	Event Argument - Concept
+where do mr. and mrs. vervelle live ?	in a mansion in ville-d'avray .	ville-d'avray	Concept	Entity	Relation between Concepts
+barney livingston goes to work for what instiution after college ?	new york state psychiatric institute	new york state psychiatric institute	Concept	Entity	Event Argument - Concept
+what does mrs. cheveley attempt to backmail sir robert ?	she wants sir robert to support an illegial scheme to build a canel in argentina .	a letter to baron arnheim	Event	Event Expression	Relation between Concepts
+who gets kate out of prison ?	phillip	phillip	Concept	Entity	Event Argument - Concept
+who did baron conrad kill ?	baron frederick	baron frederick	Concept	Entity	Event Argument - Concept
+why did mr. royall want harney to leave his home ?	he noticed a closeness of him and charity .	mr. royall notices his and charity s growing closeness .	Event	Event Expression	Causal Relation
+although says he will never forgive nina what does he promise to do ?	to take her and dain to the mouth of the river where they would find a boat to help them escape	he still promises to help her escape	Event	Event Expression	Nested Relation
+who does ernest marry ?	"ellen , his parent s former housemaid"	he marries ellen .	Concept	Entity	Relation between Concepts
+who is wounded trying to save diana ?	ahmed	ahmed	Concept	Entity	Event Argument - Concept
+what job does ernest take up after he is released from prison ?	tailoring	tailor	Concept	Common Noun Phrases	Temporal Relation
+what type of landscape did the men find on the second planet ?	desert .	a desert landscape .	Concept	Common Noun Phrases	Attribute of Concept
+what does huntingdon use to manipulate helen and convince her to marry him ?	he flirts with annabella .	flirting with annabelle	Event	Event Expression	Nested Relation
+how does liza get a black eye ?	jim hits her	"her husband , jim , hits her across the face , giving her a black eye ."	Event	Event Expression	Event Trigger
+on what river was fort tuscelan ?	the black river .	black river	Concept	Book-Specific	Relation between Concepts
+what was bennett landsmann known for in school ?	a rhodes scholar	rhodes scholar	Concept	Book-Specific	Relation between Concepts
+what kind of paintings does pierre paint ?	forgeries .	forgeries from other artists .	Concept	Common Noun Phrases	Attribute of Concept
+who tries to limit brewster s losses ?	his friends	his friends	Concept	Entity	Event Argument - Concept
+whose influence does girdlestone want to use ?	"a collector , who is a member of parliament ."	charity collector .	Concept	Common Noun Phrases	Event Argument - Concept
+barabas is awarded governorship of what city ?	malta	malta	Concept	Entity	Event Argument - Concept
+who was rebecca named after ?	two heroines in ivanhoe	the two heroines in ivanhoe	Concept	Book-Specific	Relation between Concepts
+what is the name of paula s second lover ?	evan graham	evan graham	Concept	Entity	Relation between Concepts
+who gives overton a fortune to give to ernest before her death ?	alethea	aunt alethea	Concept	Entity	Temporal Relation
+what activity did pozdnyshev engage in when he was young ?	visiting prostitutes	seeing prostitutes	Concept	Common Noun Phrases	Relation between Concepts
+barney livingston and laura castellano are neighbors in what city ?	brooklyn	brooklyn	Concept	Entity	Relation between Concepts
+what is the name of the ship virginia travels on ?	the australasian	australasian	Concept	Book-Specific	Event Argument - Concept
+where is herr professor from ?	germany	germany	Concept	Entity	Relation between Concepts
+what type of medicine does barney want to practice ?	barney is drawn to psychiatry .	psychiatrist	Concept	Common Noun Phrases	Attribute of Concept
+what is grassous biggest disappointment ?	that he is not a true artist .	he does n't feel he is a true artist .	Attribute	Descriptions	Nested Relation
+how was mortimer able to see movement outside the window ?	he turned towards the window because he saw one of his brother s looking out	he turns and looks after a brother looks at the window .	Event	Event Expression	Nested Relation
+when did helen decide to hand her diaries to gilbert ?	after he accused her of loving lawrence .	when gilbert accuses her of loving lawrence .	Event	Event Expression	Temporal Relation
+what does mary do when she hears that henry s consumption has worsened ?	she cares for him until he dies.l	she returns to his side and cares for him until he passes away .	Event	Event Expression	Temporal Relation
+how much was the check that was issued by robert cokeson forged for ?	ninety pounds	90	Attribute	Numerics	Attribute of Concept
+who did the captain have an interview with ?	oliver cormwell	oliver cromwell .	Concept	Entity	Event Argument - Concept
+why was the check forged ?	falder needed the money to run away with the woman he loved .	to escape with ruth	Event	Event Expression	Causal Relation
+who does monty save from drowning ?	a sailor .	a sailor	Concept	Entity	Event Argument - Concept
+what two characters seek to take scalps ?	henry march and tom hutter .	henry and tom	Concept	Entity	Event Argument - Concept
+when was it banned in the soviet union ?	in 1929 .	1929 .	Attribute	Numerics	Event Argument - Attribute
+what did the gridlestones do to create a favorable impression ?	made a small donation to charity .	he donated 25 pounds to charity .	Event	Event Expression	Nested Relation
+what medical disorder afflicts paula ?	insomnia .	insomnia	Concept	Common Noun Phrases	Event Argument - Concept
+what does montegomery brewster receive from his grandfather ?	a one million dollar inheritance .	$ 1 million	Concept	Common Noun Phrases	Event Argument - Concept
+"of the three planets where the spaceship landed , which was most like earth ?"	the third ( last )	the third planet .	Concept	Book-Specific	Attribute of Concept
+how does troilus eventually die ?	he dies in battle	in battle .	Concept	Common Noun Phrases	Event Argument - Concept
+what happens to balthus and slasher when defending the settlers from the picts ?	they die	the end up dying	Event	Event Expression	Temporal Relation
+whom takes all of barabas s wealth ?	the maltese governor .	maltese governor	Concept	Entity	Event Argument - Concept
+"how do liza kemp , tom , and their party travel to a nearby village on the august bank holiday monday ?"	by a horse-drawn coach .	coach	Attribute	Descriptions	Event Argument - Attribute
+who wrote der judenstaat ?	herzi .	herzl	Concept	Entity	Relation between Concepts
+what does a citizen willingly do if they agree to live in athens ?	comply with the laws	endorse and abide by the laws .	Attribute	Descriptions	Causal Relation
+what does troilus do when he thinks the plan is n't working ?	he swoons .	he swoons	Event	Event Expression	Temporal Relation
+what is bartley planning to sell in connemara ?	a horse .	a horse	Concept	Common Noun Phrases	Event Argument - Concept
+where are orlando s wits found ?	on the moon	the moon	Concept	Entity	Event Argument - Concept
+what is strange about the grave in the story ?	grass does n't grow on it	no grass grows on it .	Attribute	Descriptions	Attribute of Concept
+what does n't miranda like about europe ?	how women are treated	the old world treatment of its women	Attribute	Descriptions	Nested Relation
+who does criseyde later accept as a lover ?	diomede	diomede	Concept	Entity	Event Argument - Concept
+how does mr. peter s feel about tom not allowing him access to the patents ?	he gets angry .	mad	Attribute	States	Nested Relation
+with whom did ernest have an antagonistic relationship with ?	his parents .	his parents .	Concept	Entity	Relation between Concepts
+who is mrs.graham s son ?	arthur .	arthur .	Concept	Entity	Relation between Concepts
+why does soames get upset with beerbohm ?	he thinks beerbohm wrote bad stuff about him	beerbohm wrote a fictional story about soames .	Event	Event Expression	Causal Relation
+how does diana feel when ahmed tells her to leave ?	she is upset .	sad	Attribute	States	Temporal Relation
+who discovered the tregennis siblings the morning after the tragedy ?	the housekeeper	the housekeeper	Concept	Entity	Temporal Relation
+what did mrs. altmeyer do after nina leaves ?	she left and took dain s money with her	he erased the footprints	Event	Event Expression	Temporal Relation
+"besides being blind , why ca n't newton continue his mission ?"	different planetary alignment .	the planetary alignments	Attribute	States	Causal Relation
+what trigger the transfer of the ship to the present ?	eathquake	earthquake	Event	Event Name	Causal Relation
+"when mary s brother died , who became the heir to her family s fortune ?"	mary	mary	Concept	Entity	Temporal Relation
+who is the 2nd earl of essex ?	robert devereux	robert devereux	Concept	Entity	Relation between Concepts
+how often does mrs. inglethorpe change her will ?	at least once a year	every year	Attribute	Numerics	Attribute of Concept
+what did madam de merret s husband do when she asked him not to look in the closet ?	he hired a mason to wall off the closet .	had a wall constructed .	Event	Event Expression	Temporal Relation
+what religion is cyril ?	she is a christian .	christian .	Attribute	States	Attribute of Concept
+what did charity learn while at the doctor ?	that she was pregnant .	she is pregnant	Attribute	States	Nested Relation
+what role did mr. fletcher play on the estate ?	"he was the manager in the past , but is now the owner ."	past manager	Attribute	Common Noun Phrases	Event Argument - Concept
+when did the ban get lifted ?	1940 .	1940	Attribute	Numerics	Event Argument - Attribute
+why is pozdnyshev acquitted of the murder ?	due to his wife s infidelity	wife was cheating	Event	Event Expression	Causal Relation
+how does astolfo get to the moon ?	in elijah s flaming chariot .	in elijahs flaming chariot	Concept	Book-Specific	Event Argument - Concept
+where does master holdenough see the reflection of a friend who drowned ?	in a mirror	in a mirror	Concept	Common Noun Phrases	Nested Relation
+what attratcs men to anderson ?	her beauty attracts men to her .	her beauty	Attribute	States	Attribute of Concept
+how many languages were the remaining clues in ?	3	three	Attribute	Numerics	Attribute of Concept
+what sport does livingston play ?	basketball	basketball	Concept	Common Noun Phrases	Relation between Concepts
+"after finding out about ruth and being arrested , what does falder do to avoid his fate ?"	throws himself down the stairs and breaks his neck .	breaks his neck by throwing himself down the stairs .	Event	Event Expression	Temporal Relation
+which woman was very jealous of josiah s wife ?	morella winmarleigh	morella winmarleigh	Concept	Entity	Attribute of Concept
+who does angelica fall in love with and elope with to cathay ?	medoro .	medoro	Concept	Entity	Event Argument - Concept
+who does the christian mob blame for the unrest in the city ?	the mob blames hypatia .	hypatia .	Concept	Entity	Nested Relation
+what does astolfo ride to ethiopia ?	a hippogriff .	a hippogriff	Concept	Book-Specific	Event Argument - Concept
+how are philammon and pelagia related ?	pelagia is philammon s long lost sister .	pelagia is philammon long lost sister	Attribute	Descriptions	Relation between Concepts
+what poison was given to mrs. inglethorpe ?	strychnine	strychnine	Concept	Common Noun Phrases	Event Argument - Concept
+whose sacrifice delays the picts ?	balthus and slasher .	balthus and slasher	Concept	Entity	Nested Relation
+who commits kate to prison ?	"phillip , the deemster , sends kate to prison ."	phillip	Concept	Entity	Event Argument - Concept
+when did dominic s wife throw a picnic ?	18 months after josiah died	when josiah brown passes away .	Event	Event Expression	Temporal Relation
+what does podzdnyshev do to hide his jealousy ?	leaves on a trip	by going on a trip	Event	Event Expression	Nested Relation
+who tried to trick the princess into thinking he was captain duval ?	the inca of perusalem	inca of perusalem	Concept	Entity	Nested Relation
+"after escaping from baron henry , where does otto take refuge ?"	the monastery where he grew up .	the monastery	Concept	Book-Specific	Temporal Relation
+why was mrs helen graham not free to marry ?	because she was actually married to arthur huntingdon .	her husband was ill .	Attribute	Descriptions	Causal Relation
+why does dorian go to the opium den ?	to escape his guilt .	to escape the guilt of his crime .	Event	Event Expression	Causal Relation
+how did the goths worsihp their gods ?	they goths worshiped their gods by sacrificing horses .	by sacrificing horses .	Event	Event Expression	Nested Relation
+what does ernest believe will regenerate the church of england ?	he believes that living among the poor will help the church of england .	the way to regenerate the church of england would be to live among the poor .	Event	Event Expression	Nested Relation
+what does mary devote much of her time to ?	charity	charity	Concept	Common Noun Phrases	Attribute of Concept
+where does diana want to travel to at the beginning of the story ?	the desert	desert	Concept	Book-Specific	Event Argument - Concept
+who are pete s fictional letters supposed to be from ?	kate	a fictional uncle	Concept	Entity	Event Argument - Concept
+what is tom s latest invention ?	a photo telephone .	a photo telephone	Concept	Book-Specific	Event Argument - Concept
+who dies while rebecca is gone ?	miranda	miranda	Concept	Entity	Temporal Relation
+what did ermyntrude expect to accomplish by taking a job as a lady s maid ?	to marry a millionaire .	marry another millionaire .	Event	Event Expression	Nested Relation
+how many are not told from watson s point of view ?	four .	4	Attribute	Numerics	Event Argument - Attribute
+who awakens echo ?	mercury	mercury	Concept	Entity	Event Argument - Concept
+what is mary taught after her brother dies ?	accomplishments	she learns how to dance .	Event	Event Expression	Temporal Relation
+where is the princess met by the manager ?	hotel	a hotel sitting room	Concept	Common Noun Phrases	Event Argument - Concept
+what does troilus suggest he and criseyde do to avoid her being sent to greece ?	elope	elope together .	Event	Event Expression	Nested Relation
+what did almayer do when mrs. almayer left and nina was gone ?	he burned his furniture and home and lived in his folly until he died .	he broke all the furniture in his office and burned it along with the house .	Event	Event Expression	Temporal Relation
+what was doyle s favorite sherlock homes story ?	the adventure of the speckled band	the adventures of the speckled band .	Concept	Common Noun Phrases	Relation between Concepts
+which character is a former priate ?	tom hutter .	floating tom hutter	Concept	Entity	Relation between Concepts
+what does leon focus on in writing his letters ?	the beauty of the women	the charms of ces demoiselles and appearance of boarders	Attribute	Descriptions	Nested Relation
+what color was the letter from lady chiltern ?	pink	pink .	Attribute	States	Attribute of Concept
+"according to mary , what type of marriage was eliza living ?"	conventional and loveless .	unrequited	Attribute	States	Nested Relation
+what does tito learn from fra luca ?	he finds out that his adoptive father is asking for assistance after being forced into slavery .	his father has fallen into slavery is asking for assistance	Event	Event Expression	Nested Relation
+how is thiodolf related to hall sun ?	they are father and daughter	he is her father	Concept	Common Noun Phrases	Relation between Concepts
+how long has socrates lived thus far ?	seventy years	70 years	Attribute	Numerics	Attribute of Concept
+how does arthur corrupt his son ?	he encourages him to drink and smoke .	he encourages his to drink and swear	Event	Event Expression	Causal Relation
+what does laura realize the next day while getting water ?	"lizzie can still hear the goblin s market but after eating the fruit , she can no longer hear them ."	she does n't hear the goblin s chanting	Attribute	Descriptions	Temporal Relation
+what did rogers do on the day after he shot down several of the han s airships ?	he married wilma deering .	he became a member of the gang .	Event	Event Expression	Temporal Relation
+who was paul traveling to see ?	his elderly wife	his wife	Concept	Entity	Event Argument - Concept
+why does landsmann not become a doctor ?	he had a spinal injury	a spinal injury	Attribute	States	Causal Relation
+"after being released by the cia , what organization subsequently arrests newton ?"	fbi	fbi	Concept	Entity	Temporal Relation
+heraclitus believes names are derived from where ?	he believed they arrived from divine origins .	from divine origins	Attribute	Descriptions	Nested Relation
+how does falder break his neck ?	he throws himself down the stairs	throwing himself dowm the stairs .	Event	Event Expression	Nested Relation
+who painted dorian s portrait ?	basil hallward	basil hallard	Concept	Entity	Relation between Concepts
+what happens to liza the night after she gets drunk with her mother ?	she has a miscarriage .	she has a fatal miscarriage	Event	Event Expression	Temporal Relation
+where does liza live ?	"vere street , lambeth"	with her aging mother .	Concept	Entity	Relation between Concepts
+what happens to lady blythe after she confesses ?	she dies .	she dies	Event	Event Expression	Temporal Relation
+how does albert escape after the tower is blown up ?	he leaps from it	leaps from tower	Event	Event Expression	Temporal Relation
+letters that create certain sounds can express what ?	the essence of the word .	essence of word s subject	Attribute	Descriptions	Attribute of Concept
+what is the name of the wolfing s leader ?	thiodolph	thiodolf .	Concept	Entity	Relation between Concepts
+how did the housekeeper s feet get wet during holmes ' visit ?	holmes accidentally kicks over a water pot	sherlock had wet the floor by overturning a water-filled pot .	Event	Event Expression	Causal Relation
+"nemo , the copyist turns out to be whom ?"	lady dedlocks former lover captain hawdon	captain hawdon	Concept	Entity	Relation between Concepts
+who is the protagonist ?	dick forrest	dick forrest	Concept	Entity	Book Attribute
+what event occured that changed christopher s life when he was ten years old ?	his father died .	his father s death .	Event	Event Name	Temporal Relation
+why does charity go to dr.merkle ?	she was n't feeling well .	she has been feeling unwell .	Attribute	States	Causal Relation
+why did theodora and hector decide to never see each other again ?	their love was too strong to simply be friends	they can not remain just friends	Attribute	Descriptions	Causal Relation
+"once out of prison , what did ernest want to do for work ?"	be a tailor .	become a tailor	Event	Event Expression	Temporal Relation
+what does laura say after lizzie tells her about jeanie ?	"that tomorrow night , she will get more fruit from the goblins"	she says she will get more fruit the next night .	Event	Event Expression	Temporal Relation
+who enters with mercury ?	cupid	cupid	Concept	Entity	Event Argument - Concept
+who does ermyntrude pretend to be in front of the inca ?	the princess	the princess	Concept	Entity	Event Argument - Concept
+how did chartiy reveal to harney that she had married mr. royall ?	in a letter .	she reveals that information to harney in a letter .	Attribute	Descriptions	Nested Relation
+who was the woman that rodgers helped in the forest after he woke up ?	wilma deering	wilma deering .	Concept	Entity	Temporal Relation
+what kind of gift did the inca give to ermyntrude ?	a jewel .	a jewel	Concept	Common Noun Phrases	Event Argument - Concept
+how do we know the people in the museum aware of soames ' presence ?	"they stared at him , followed him , and seem afraid of him ."	it caused a great stir .	Event	Event Expression	Causal Relation
+how did newtown become blind ?	from the x-ray machine	he is blinded by x-rays taken by the fbi when they are examining him	Event	Event Expression	Causal Relation
+what do paul and the clergyman do when the old woman on the island dies ?	argue over the meaning of her death .	they debate the meaning of her death from a positivist viewpoint	Event	Event Expression	Temporal Relation
+what cause the drought on anthea ?	nuclear wars	nuclear wars	Event	Event Name	Causal Relation
+who does mr. lawrence end up marrying ?	esther hargrave	esther hargrave	Concept	Entity	Event Argument - Concept
+who is the antagonist of this story ?	the american government	"u.s. government agencies , cia and fbi"	Concept	Entity	Book Attribute
+what does pozdnyshev do after he is acquitted ?	rides trains seeking forgiveness from other passengers	rides train apologizing to passengers	Event	Event Expression	Temporal Relation
+what happens to brewster s money when he attempts to lose it in stock speculation ?	he increases his profits .	it increases	Event	Event Expression	Temporal Relation
+who is queen during this story ?	queen victoria	victoria	Concept	Entity	Book Attribute
+in what setting does the final act take place ?	grosvenor square	grosvenor square .	Concept	Entity	Book Attribute
+what century does this story take place ?	the 18th century .	18th century	Attribute	Numerics	Book Attribute
+who is the sculptor froelig ?	haakan frolich	sculptor haakan frolich	Concept	Entity	Relation between Concepts
+what precipatating agent did the pair use to poison emily inglethorpe ?	bromide	bromine	Concept	Common Noun Phrases	Event Argument - Concept
+what does socrates tell crito not to worry about ?	public opinion	public opinion	Concept	Common Noun Phrases	Event Argument - Concept
+who is theodora s father courting ?	mrs. mcbride	mrs.mcbride	Concept	Entity	Event Argument - Concept
+why does ahmed want to send dana away from him ?	ahmed wants to send diana away because of his	he loves her and does not want to mistreat her anymore .	Attribute	Descriptions	Causal Relation
+whose voice did everard hear in the dark gallery ?	his cousins voice .	his cousin s	Concept	Entity	Event Argument - Concept
+socrates believed that foreign origins of word changed so much that what it sounds like is ?	names have been twisted to make old language sound barbarous	lose resemblance tot he original word	Attribute	Descriptions	Nested Relation
+what did almayer do after his wife left ?	"destroyed his furniture , burned his house to the ground , and lived in his folly , smoking opium until he died ."	long trips and hopeless dream	Event	Event Expression	Temporal Relation
+who finds out that newton is an alien first ?	nathan bryce	nathan bryce	Concept	Entity	Event Argument - Concept
+where does the ship sail from ?	melbourne	melbourne	Concept	Entity	Event Argument - Concept
+what does arthur do when he finds out about helen s plans to leave ?	he burns her artists s tools .	arthur burns her art tools .	Event	Event Expression	Temporal Relation
+whi is mary and robert s father ?	captain grant	captain grant	Concept	Entity	Relation between Concepts
+which character becomes engaged to fred wright ?	diana berry	diana barry	Concept	Entity	Event Argument - Concept
+what weapon does pozdnyshev use to kill his wife ?	a dagger	he kills her with a dagger .	Concept	Common Noun Phrases	Event Argument - Concept
+what job does ermyntrude s father suggest she do find another man to marry ?	lady s maid	lady s maid .	Concept	Common Noun Phrases	Nested Relation
+what city is described when talking about the laws of man ?	athens	athens	Concept	Entity	Nested Relation
+who is the narrator on most ?	dr. watson .	dr. watson	Concept	Entity	Book Attribute
+what is the name of the native american tribe who captured hutter and march as they sneaked into their camp ?	the hurons	bumppo	Concept	Entity	Temporal Relation
+what type of neighborhood are the jewish people living in ?	the jews were living in ghettos .	ghettos	Concept	Common Noun Phrases	Attribute of Concept
+what medication does pozdnyshev s wife begin taking after the birth of her fifth child ?	contraceptives	she starts taking birth control .	Concept	Common Noun Phrases	Temporal Relation
+what did hutter confess on this deathbed ?	that judith and hetty are not his biological daughers .	judith and hetty are not his real daughters .	Attribute	Descriptions	Nested Relation
+how old in josiah when he and theodora marry ?	he is in his fifties .	fifties .	Attribute	Numerics	Event Argument - Attribute
+in what town do tregennis s siblings live ?	tredannick wollas	they live in cornwall .	Concept	Entity	Relation between Concepts
+what will the agent claim to find ?	diamond mines	diamond mines .	Concept	Common Noun Phrases	Event Argument - Concept
+what is necessary to commit a crime according to elder simms ?	"according to elder simms , a weapon is necessary to commit a crime ."	a weapon .	Concept	Common Noun Phrases	Event Argument - Concept
+what happens to balthus and slasher ?	they sacrifice themselves in order to save the settlers during a pictish attack .	they die	Event	Event Expression	Event Trigger
+who decides to launch the rescue mission for the britannia ?	lord and lady glenarvan	lord and lady glenarvan	Concept	Entity	Event Argument - Concept
+whoe is the enlightened ferryman that govinda meets at the river ?	siddhartha .	vasudeva	Concept	Entity	Event Argument - Concept
+where does ezra girdlestone travel to buy diamonds from the dealers ?	south africa	south africa	Concept	Entity	Event Argument - Concept
+why does magus make so much money selling forgeries ?	the people who buy the paintings do n't know they re fakes	he sells them for a large profit .	Event	Event Expression	Causal Relation
+what drives the men into the ship ?	volcanic ash and stampeding mammoths .	stampede of mammoths and volcanic ash	Concept	Common Noun Phrases	Event Argument - Concept
+how do lord and lady glenarvan contact mary and robert ?	an announcement in the newspaper	through an announcement in a newspaper .	Event	Event Expression	Nested Relation
+why does baldassarre vow revenge on tito ?	tito denied knowing him and called him a madman .	he wo n't help him get out of prison	Event	Event Expression	Causal Relation
+what is lady dedlock s first name ?	honoria	honoria	Concept	Entity	Relation between Concepts
+"who betrayed diana , allowing her to be kidnapped ?"	her guide	"her guide , who was easily bribed ."	Concept	Common Noun Phrases	Event Argument - Concept
+what do nora and cathleen receive from the dead corpse ?	clothing	clothing	Concept	Common Noun Phrases	Event Argument - Concept
+what forest do the goths reside in ?	mirkwood	mirkwood	Concept	Entity	Relation between Concepts
+who conforted otto when his hand was cut ?	pauline	"baron henry s daughter , pauline"	Concept	Entity	Temporal Relation
+who is believed to be of divine antecedents ?	"the wolfing war leader , thiodolf ."	the wolfing war leader .	Concept	Entity	Attribute of Concept
+what is the london play called ?	the acorn planters	the acorn planters	Concept	Entity	Attribute of Concept
+why does baron henry attack castle drachenhausen ?	"baron conrad killed his uncle , baron frederick ."	because baron conrad killed his uncle baron frederick	Event	Event Expression	Causal Relation
+what object shows the truth about dorian gray ?	the portrait	a portrait	Concept	Book-Specific	Event Argument - Concept
+what is the name of the wolfing war leader ?	thiodolf	thiodolf .	Concept	Entity	Attribute of Concept
+after the death of michael and bartley what entity does maurya claim can no longer threaten the family ?	the sea .	a ghost	Concept	Common Noun Phrases	Temporal Relation
+who turns falder over to the police ?	walter how	robert cokeson	Concept	Entity	Event Argument - Concept
+"towards the end of the story , how did almayer attempt to forget his daughter ?"	he smoked opium .	smoking opium	Event	Event Expression	Nested Relation
+what does siddhartha do after he is saved from suicide by the holy word om ?	he renounces love and riches to live once again in his beliefs .	he meets again with govinda and then decides to remain in the presence of the river from which he heard the word	Event	Event Expression	Temporal Relation
+where is violet ray from ?	new york	new york	Concept	Entity	Relation between Concepts
+what do the goths sacrifice to the gods ?	horses	horses .	Concept	Common Noun Phrases	Event Argument - Concept
+what gang did rodgers and the other humans fight while he was at the camp ?	the hans	the hans	Concept	Entity	Temporal Relation
+who lingers at the stream ?	laura	laura	Concept	Entity	Event Argument - Concept
+what happened to george and owen tregennis ?	they went insane	the two brothers had gone insane .	Event	Event Expression	Event Trigger
+how does virginia s conversion affect her religious beliefs ?	she gives up on her religion .	she becomes more sexual .	Event	Event Expression	Nested Relation
+what is an example of a civilized country given in the story ?	france	france	Concept	Entity	Attribute of Concept
+what type of wreckage are the men scouting ?	the wreckage alien starship	alien starship	Concept	Book-Specific	Event Argument - Concept
+under who s influence does dorian explore his sexuality ?	lord henry	lord henry wotton	Concept	Entity	Nested Relation
+with whom does liza have an affair ?	jim blakeston	jim	Concept	Entity	Event Argument - Concept
+how many stories had innocent already written upon arriving in london ?	one	1 book	Attribute	Numerics	Temporal Relation
+what is mr. roundhay s profession ?	he is a vicar .	mr. roundhay is the local vicar .	Concept	Common Noun Phrases	Attribute of Concept
+what does diana order to take place in the valley of gargaphie ?	solemn revels	solemn revels	Event	Event Name	Nested Relation
+what does lord caversham announce before the house in the final act ?	that sir robert s has denounced the argentine canal	nothing sir robert does the denouncing	Event	Event Expression	Nested Relation
+what did charity do when mr. royall gave her money for clothes ?	went to the doctor to get her brooch back .	she takes it to dr. merkle to get her brooch back .	Event	Event Expression	Temporal Relation
+who switches theodora s letters ?	morella winmarleigh	morella winmarleigh	Concept	Entity	Event Argument - Concept
+sir leicester suffers from a stroke upon learning of whose death ?	tulkinghorn	lawyers	Concept	Entity	Nested Relation
+why is huntingdon s death painful ?	he is afraid of what awaits him .	because he is terrified .	Event	Event Expression	Causal Relation
+what does the firm of girdlestone buy to save the company ?	diamonds	diamonds	Concept	Common Noun Phrases	Nested Relation
+how does james die ?	a hunting accident	an accident at a hunting party	Event	Event Expression	Causal Relation
+who was innocent lured into a relationship with ?	amadis jocelyn	amadis jocelyn .	Concept	Entity	Event Argument - Concept
+who complains that some music is strong enough to change one s self ?	pozdnyshev	pozdnyshev	Concept	Entity	Nested Relation
+"which character comes from bangor , maine ?"	miranda hope .	miranda hope	Concept	Entity	Relation between Concepts
+what is richards first choice of career ?	medicine	medicine	Concept	Common Noun Phrases	Attribute of Concept
+who is asked to help determine who poisioned emily inglethorpe ?	hercule poirot	hercule poirot .	Concept	Entity	Nested Relation
+who is pelagia ?	philammon s long lost sister	plilammon s long-lost sister	Attribute	Descriptions	Attribute of Concept
+why does brewster jump overboard on the cruise ?	to save a drown sailor .	to save a drowning sailor .	Event	Event Expression	Causal Relation
+why was jim arrested ?	jim was arrested for knocking dave out using a jock bone from a mule .	for hitting dave with a hock bone	Event	Event Expression	Causal Relation
+who is the owner of the manor in the story ?	madame de merret	madame de merret	Concept	Entity	Relation between Concepts
+who represented jim in his trial ?	jim was represented by elder simms	elder childers	Concept	Entity	Event Argument - Concept
+what is the best possiable way that socrates thought words came about ?	by using names for things	using names that are like the things they name	Attribute	Descriptions	Nested Relation
+where had the jews of europe been forced to live ?	in ghettos	ghettos	Concept	Common Noun Phrases	Event Argument - Concept
+what kind of poison was emily dying from ?	strychnine poisoning .	strychnine	Concept	Common Noun Phrases	Event Argument - Concept
+"according to the deal soames made , how would he find out whether his poetic talent would have been recognized in the future ?"	by spending an afternoon in the reading room of the british museum 100 years ahead of his time	by selling his soul to the devil .	Event	Event Expression	Nested Relation
+what will this discovery of diamonds do ?	plunge the price of diamonds to avoid ruin .	diamond prices raise	Event	Event Expression	Event Trigger
+who is the senior clerk at james how & sons ?	robert cokeson	robert cokeson	Concept	Entity	Relation between Concepts
+what happens to tom s airship ?	it is stolen .	it is stolen	Event	Event Expression	Event Trigger
+how is pandarus related to criseyde ?	he s her uncle .	pandarus is criseyde s uncle	Concept	Common Noun Phrases	Relation between Concepts
+who is watching over the girls ?	a classmates aunt is acting as chaperone .	aunt jimsie	Concept	Entity	Event Argument - Concept
+who discovers la grande breteche at the start of the story ?	dr. bianchon .	dr. bianchon	Concept	Entity	Event Argument - Concept
+what does liza claim all men do to their wives ?	beat them	beat them	Event	Event Expression	Nested Relation
+which character is the narrator for the majority of the stories ?	watson .	dr. watson	Attribute	Book Attributes	Book Attribute
+what adjective is used to describe virginia st. john ?	superb	superb	Attribute	States	Attribute of Concept
+who was the inca disguised as when he met ermyntrude ?	captain duval .	"captain duval , a messenger"	Concept	Entity	Temporal Relation
+who built the cottage that paul and virginia stay in ?	the bishop	"virginia s husband , the bishop"	Concept	Entity	Nested Relation
+how did the witch seek to make the world more just ?	making the purposes more vain	by playing pranks	Event	Event Expression	Nested Relation
+what is will s relationship to mr. fletcher ?	he is mr. fletcher s grandson .	he is his grandson	Concept	Common Noun Phrases	Relation between Concepts
+what happens when jews wish for a state ?	they will have it .	they get it .	Event	Event Expression	Temporal Relation
+what contract would be broken if he had escaped ?	social contract .	the social contract .	Concept	Common Noun Phrases	Causal Relation
+where is miranda hope from ?	"bangor , maine"	"bangor , maine"	Concept	Entity	Relation between Concepts
+who does troilus see passing through the temple ?	criseyde	criseyde	Concept	Entity	Nested Relation
+who is the protagonist of the story ?	dick forrest .	dick forrest	Concept	Entity	Book Attribute
+who is cratylus a disciple of ?	hericlitus	heraclitus .	Concept	Entity	Relation between Concepts
+what job did the king offer curdie ?	bodyguard	bodyguard .	Concept	Common Noun Phrases	Event Argument - Concept
+what crime does will commit against mr. fletcher ?	murder .	murder	Event	Event Name	Event Trigger
+whom is rebecca going to live with ?	her two aunts	"miranda and jane sawyer , her 2 aunts"	Concept	Entity	Event Argument - Concept
+who do the gang bosses assign to investigate the wreck of the hans aircraft ?	anthony rogers and wilma deering .	wilma and rogers	Concept	Entity	Nested Relation
+what does lizzie plan to use to pay for the goblin fruit ?	a silver penny .	silver	Concept	Common Noun Phrases	Nested Relation
+what was rebecca selling when she first met adam ladd ?	soap to help a poor family receive a lamp	soap	Concept	Common Noun Phrases	Temporal Relation
+where does innocent return to die ?	her farm .	to her farm .	Concept	Book-Specific	Event Argument - Concept
+what organization arrests newton ?	cia	the cia	Concept	Entity	Event Argument - Concept
+how many ethical arguments does socrates propose ?	two	two arguments are used .	Attribute	Numerics	Event Argument - Attribute
+who opposed the jews being settled in palestine ?	herzl	herzl	Concept	Entity	Nested Relation
+who socrates visited by at the beginning of the story ?	crito	crito	Concept	Entity	Event Argument - Concept
+why did ermyntrude originally not want to marry the inca ?	he was poor because of his country s war .	he was far too poor .	Attribute	States	Causal Relation
+who assisted alfred in the crime ?	evelyn howard .	evelyn howard .	Concept	Entity	Event Argument - Concept
+what color is paula s bathing suit ?	white .	white	Attribute	States	Attribute of Concept
+what does stress do to some of the students in harvard ?	some commit suicide	drives some to suicide	Event	Event Expression	Event Trigger
+where does kate go when she leaves pete ?	to phillip s house	london	Concept	Book-Specific	Temporal Relation
+who represents jim in the trial ?	elder simms represents jim in the trial .	elder simms	Concept	Entity	Event Argument - Concept
+what does astolfo travel in to get to the moon ?	elijah s chariot .	flaming chariot	Concept	Book-Specific	Event Argument - Concept
