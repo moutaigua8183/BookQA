@@ -6,7 +6,7 @@ This is the raw data of the user study in our analysis part 2 (section 6) in *[N
 The *.tsv* file contains 1001 rows with the header row.
 
 | Question | Answer1 | Answer2 | SU Type | SU Sub Type | Question Type |  
-| -------- | :-----: | :-----: | :-----: | :---------: | :-----------: |  
+|----------| :-----: | :-----: | :-----: | :---------: | :-----------: |  
 | what does tito sell ... ? | his library . | the late farmers stock | Concept	Common | Noun Phrases | Nested Relation |  
 | ... | ... | ... | ... | ... | ... |  
 
