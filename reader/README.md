@@ -61,19 +61,19 @@ The `output_dir` folder needs to be different from `ckpt_path`, since the number
 
 ## Finetune huggingface pretrained LM ##
 ```bash
-python train.py                                 \
-    --data_dir=path/to/masked/data/folder       \
-    --model_name_or_path=facebook/bart-large    \
-    --tokenizer_name=facebook/bart-large        \
-    --do_train                                  \
-    --gpus=2                                    \
-    --num_train_epochs=3                        \
-    --learning_rate=5e-6                        \
-    --train_batch_size=8                        \
-    --max_target_length=900                     \
-    --val_max_target_length=900                 \
-    --test_max_target_length=900                \
-    --cache_dir=pretrained                      \
+python train.py                                             \
+    --data_dir=../sample_data/data_for_fid/                 \
+    --model_name_or_path=facebook/bart-large                \
+    --tokenizer_name=facebook/bart-large                    \
+    --do_train                                              \
+    --gpus=2                                                \
+    --num_train_epochs=3                                    \
+    --learning_rate=5e-6                                    \
+    --train_batch_size=8                                    \
+    --max_target_length=900                                 \
+    --val_max_target_length=900                             \
+    --test_max_target_length=900                            \
+    --cache_dir=pretrained                                  \
     --output_dir=folder/where/finetuned/model/be/saved 
 ```
 `--device` is to assign a specific GPU (cuda:{device}) to testing.  
@@ -82,21 +82,21 @@ python train.py                                 \
 ## Continue Training a Checkpoint ##
 ```bash
 python train.py               \
-    --data_dir=path/to/data/folder              \
-    --model_name_or_path=facebook/bart-large    \
-    --tokenizer_name=facebook/bart-large        \
-    --config_name=facebook/bart-large           \
-    --ckpt_path=folder/where/model/to/be/saved/epoch=2.ckpt  \
-    --do_train                                  \
-    --gpus=8                                    \
-    --num_train_epochs=3                        \
-    --learning_rate=5e-6                        \
-    --train_batch_size=8                        \
-    --max_target_length=900                     \
-    --val_max_target_length=900                 \
-    --test_max_target_length=900                \
-    --cache_dir=pretrained                      \
-    --output_dir=folder/where/new/model/to/be/saved  
+    --data_dir=path/to/data/folder                          \
+    --model_name_or_path=facebook/bart-large                \
+    --tokenizer_name=facebook/bart-large                    \
+    --config_name=facebook/bart-large                       \
+    --ckpt_path=folder/where/model/be/saved/epoch=2.ckpt    \
+    --do_train                                              \
+    --gpus=8                                                \
+    --num_train_epochs=3                                    \
+    --learning_rate=5e-6                                    \
+    --train_batch_size=8                                    \
+    --max_target_length=900                                 \
+    --val_max_target_length=900                             \
+    --test_max_target_length=900                            \
+    --cache_dir=pretrained                                  \
+    --output_dir=folder/where/new/model/be/saved  
 ```
 
 `--device` is to assign a specific GPU (cuda:{device}) to testing.  
@@ -111,17 +111,17 @@ The `output_dir` folder needs to be different from `ckpt_path`, since the number
 Most of the generation parameters can be left unchanged.
 
 ```bash
-python generate.py                                      \
-    --model_name_or_path=facebook/bart-large            \
-    --config_name=facebook/bart-large                   \
-    --tokenizer_name=facebook/bart-large                \
-    --ckpt_path=lm_book_movie_top3_orqa/epoch=2.ckpt    \
-    --input_path=path/to/val.source                     \
-    --task=summarization                                \
-    --bs=1                                              \
-    --device=1                                          \
-    --cache_dir=pretrained/                             \
-    --output_dir=folder/where/predictions/to/be/saved  
+python generate.py                                              \
+    --model_name_or_path=facebook/bart-large                    \
+    --config_name=facebook/bart-large                           \
+    --tokenizer_name=facebook/bart-large                        \
+    --ckpt_path=folder/where/new/model/be/saved/epoch=2.ckpt    \
+    --input_path=path/to/val.source                             \
+    --task=summarization                                        \
+    --bs=1                                                      \
+    --device=1                                                  \
+    --cache_dir=pretrained/                                     \
+    --output_dir=folder/where/predictions/be/saved  
 ```  
 
 `--device` is to assign a specific GPU (cuda:{device}) to testing.  
