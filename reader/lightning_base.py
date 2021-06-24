@@ -104,7 +104,8 @@ class BaseTransformer(pl.LightningModule):
         else:
             self.tokenizer: PreTrainedTokenizer = tokenizer
         ###################
-        self.tokenizer.add_special_tokens({'sep_token': '<SEP>', 'additional_special_tokens': ['<RES>']})
+        self.tokenizer.add_special_tokens({'sep_token': '<SEP>'})
+        # self.tokenizer.add_special_tokens({'sep_token': '<SEP>', 'additional_special_tokens': ['<RES>']})
         ###################
                 
         self.model_type = MODEL_MODES[mode]
@@ -383,7 +384,7 @@ def generic_train(
         early_stop_callback=early_stopping_callback,
         ############
         num_sanity_val_steps=0,
-        val_percent_check=0.9,
+        val_percent_check=1,
         ############
         **train_params,
     )

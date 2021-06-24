@@ -2,7 +2,7 @@
 
 The following script is to mask out 15% of the words with `<mask>` from the original content. The resulting data will be saved in a new folder located at the same level as the original folder. Note that the procedure will convert everything to lower case.
 ```bash
-python convert_text_filling_data.py --data_dir=path/to/original/data/folder
+python convert_text_filling_data.py --data_dir=../sample_data/data
 ```
 `--data_dir` is required. It is the folder that contains train/val/test source and target files.
 
@@ -14,7 +14,7 @@ The backbone is BART model. Most of the training parameters can be left unchange
 ## Train a preread model ##
 ```bash
 python train.py                                 \
-    --data_dir=path/to/masked/data/folder       \
+    --data_dir=../sample_data/data_masked/      \
     --model_name_or_path=facebook/bart-large    \
     --tokenizer_name=facebook/bart-large        \
     --do_train                                  \
@@ -26,21 +26,21 @@ python train.py                                 \
     --val_max_target_length=900                 \
     --test_max_target_length=900                \
     --cache_dir=pretrained                      \
-    --output_dir=folder/where/model/to/be/saved 
+    --output_dir=folder/where/preread/model/be/saved 
 ```
 `--device` is to assign a specific GPU (cuda:{device}) to testing.  
 `--cache_dir` is optional. It is to indicate the directory where the pretrained models and configurations are located.
 
 
 
-## Finetune reader ##
+## Finetune prepread reader ##
 ```bash
 python train.py                                 \
-    --data_dir=path/to/data/folder              \
+    --data_dir=../sample_data/data_for_fid/     \
     --model_name_or_path=facebook/bart-large    \
     --tokenizer_name=facebook/bart-large        \
     --config_name=facebook/bart-large           \
-    --ckpt_path=folder/where/preread/models/are/saved/epoch=2.ckpt  \
+    --ckpt_path=folder/where/preread/model/be/saved/epoch=2.ckpt  \
     --do_train                                  \
     --gpus=8                                    \
     --num_train_epochs=3                        \
@@ -50,7 +50,7 @@ python train.py                                 \
     --val_max_target_length=900                 \
     --test_max_target_length=900                \
     --cache_dir=pretrained                      \
-    --output_dir=folder/where/finetuned/model/to/be/saved  
+    --output_dir=folder/where/finetuned/model/be/saved  
 ```
 
 `--device` is to assign a specific GPU (cuda:{device}) to testing.  
@@ -59,7 +59,7 @@ python train.py                                 \
 The `output_dir` folder needs to be different from `ckpt_path`, since the numbering of checkpoint will be reset.
 
 
-## Fine tune ##
+## Finetune huggingface pretrained LM ##
 ```bash
 python train.py                                 \
     --data_dir=path/to/masked/data/folder       \
@@ -74,7 +74,7 @@ python train.py                                 \
     --val_max_target_length=900                 \
     --test_max_target_length=900                \
     --cache_dir=pretrained                      \
-    --output_dir=folder/where/model/to/be/saved 
+    --output_dir=folder/where/finetuned/model/be/saved 
 ```
 `--device` is to assign a specific GPU (cuda:{device}) to testing.  
 `--cache_dir` is optional. It is to indicate the directory where the pretrained models and configurations are located.
