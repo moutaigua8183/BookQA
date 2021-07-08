@@ -4,7 +4,7 @@ The following scripts are to train a distantly supervised (DS) BERT ranker. Plea
 
 
 
-## For Training With BERT Ranker #
+## Train a DS BERT Ranker #
 
 ```bash
 python train_ds_ranker.py            \
@@ -28,7 +28,7 @@ python train_ds_ranker.py            \
 
 
 
-## For Ranking Passages With BERT Ranker ##
+## Rank Passages With a DS BERT Ranker ##
 
 ```bash
 python rank_passage.py                          \
