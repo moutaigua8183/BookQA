@@ -76,7 +76,6 @@ python train.py                                             \
     --cache_dir=pretrained                                  \
     --output_dir=folder/where/finetuned/model/be/saved 
 ```
-`--device` is to assign a specific GPU (cuda:{device}) to testing.  
 `--cache_dir` is optional. It is to indicate the directory where the pretrained models and configurations are located.
 
 ## Continue Training a Checkpoint ##
@@ -99,7 +98,6 @@ python train.py               \
     --output_dir=folder/where/new/model/be/saved  
 ```
 
-`--device` is to assign a specific GPU (cuda:{device}) to testing.  
 `--cache_dir` is optional. It is to indicate the directory where the pretrained models and configurations are located.  
 `--ckpt_path` is the ckpt file.    
 The `output_dir` folder needs to be different from `ckpt_path`, since the numbering of new models will be reset.
