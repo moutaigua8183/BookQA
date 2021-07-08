@@ -28,7 +28,7 @@ python train.py                                 \
     --cache_dir=pretrained                      \
     --output_dir=folder/where/preread/model/be/saved 
 ```
-`--device` is to assign a specific GPU (cuda:{device}) to testing.  
+
 `--cache_dir` is optional. It is to indicate the directory where the pretrained models and configurations are located.
 
 
@@ -53,7 +53,6 @@ python train.py                                 \
     --output_dir=folder/where/finetuned/model/be/saved  
 ```
 
-`--device` is to assign a specific GPU (cuda:{device}) to testing.  
 `--cache_dir` is optional. It is to indicate the directory where the pretrained models and configurations are located.  
 `--ckpt_path` is optional. It is the ckpt file of a specific preread model. To fine-tune a pretrained BART, simply ignore `ckpt_path`.  
 The `output_dir` folder needs to be different from `ckpt_path`, since the numbering of checkpoint will be reset.
