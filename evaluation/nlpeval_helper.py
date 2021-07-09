@@ -92,3 +92,35 @@ def metric_max_over_ground_truths(metric_fn, prediction, ground_truths):
 
 
 
+def compute_rolling_rouge_L(summary, references):
+    '''
+    summary:        [str]  Target passage to be evaluated
+    references:     [list] A list of reference strings
+    '''
+    
+    summary_toks = summary.split()
+    best_score   = -1
+    best_subseq  = None
+    em           = False
+
+    for ref in references:
+        ref_toks = ref.split()
+        if len(summary_toks) < len(ref_toks):
+            hypo_dict   = {0: [' '.join(summary_toks)]}
+            ref_dict    = {0: [ref]}
+        else:
+            summary_subseqs = zip(*(summary_toks[i : ] for i in range(len(ref_toks))))
+            hypo_dict   = {idx: [' '.join(subseq)] for (idx, subseq) in enumerate(summary_subseqs)}
+            ref_dict    = {idx: [ref] for idx in range(len(hypo_dict))}
+        mean_score, scores  = Rouge().compute_score(ref_dict, hypo_dict)
+        max_idx     = np.argmax(scores)
+        max_score   = scores[max_idx]
+        if max_score > best_score:
+            best_score  = max_score
+            best_subseq = hypo_dict[max_idx][0]
+        em          = em or ref in summary
+    return {
+        'rouge-l': best_score, 
+        'rouge-l_subseq': best_subseq,
+        'em':   int(em)
+    }
